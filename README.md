@@ -8,7 +8,7 @@
 
 :+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding
 
-Pull request welcome! You name will be added here!!
+:sparkles: Pull request welcomed! You name will be added here!!
 
 ## 1. Create GitHub Account :star:
 Many of you may already have a GitHub account, if you do you can skip this step. If you don’t have an account, go to [github.com](github.com) and create one:
