@@ -8,16 +8,16 @@
 
 :+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding
 
-## 1. Create GitHub account
+## 1. Create GitHub Account
 Many of you may already have a GitHub account, if you do you can skip this step. If you don’t have an account, go to [github.com](github.com) and create one:
 
 <p align="center">
-  <img width="500"  src="images/image8.png">
+  <img width="600"  src="images/image8.png">
 </p>
 
 We recommend you choose the free plan for this course. You are able to skip all steps until you are asked to verify your email address. After verifying our email, you will be brought to your hello-world repository. 
 
-## 2. Where to ask a question?
+## 2. Where to Ask a Question?
 There is an `issues` tab right up there :point_up:. Cannot find it? Click <a href='https://github.com/CISC-CMPE-327/Assignment-Instructions/issues'>HERE</a>. To ask a question, follow two steps:
 
 - Frist, search for related issue using the `Filters` box. 
@@ -27,7 +27,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 Go to https://education.github.com/discount_requests/new and add your Queen’s email to receive GitHub’s Education benefits for free.
 
 <p align="center">
-  <img width="500"  src="images/image6.png">
+  <img width="600"  src="images/image6.png">
 </p>
 
 
@@ -39,7 +39,7 @@ Navigate to your repositories page and click the green button in the upper-right
 
 
 <p align="center">
-  <img width="700"  src="images/image4.png">
+  <img width="800"  src="images/image4.png">
 </p>
 
 
@@ -47,7 +47,7 @@ Name your repo (we suggest Quinterac) and make sure to change your repo to Priva
 
 
 <p align="center">
-  <img width="500"  src="images/image1.png">
+  <img width="600"  src="images/image1.png">
 </p>
 
 
@@ -55,7 +55,7 @@ Name your repo (we suggest Quinterac) and make sure to change your repo to Priva
 Go to the Settings tab of your new repository and select the Collaborators option on the left.
 
 <p align="center">
-  <img width="500"  src="images/image6.png">
+  <img width="600"  src="images/image6.png">
 </p>
 
 
@@ -99,7 +99,7 @@ These templates provide you a starting point to setup your repository and unders
 The `passing` badge on the homepage (in the README file) still points to the original template. So make sure that you update the link accordingly pointing to your repository. 
 
 <p align="center">
-  <img width="700"  src="images/image2.png">
+  <img width="800"  src="images/image2.png">
 </p>
 
 ## 5. Clone the Repository to Your Laptop
