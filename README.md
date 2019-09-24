@@ -67,7 +67,7 @@ Next, add each of the TA’s accounts as collaborators as well - this will allow
 - mattdixon97
 - cesurk
 - Ghazall1993
-- Andrew [waiting for his github id, hold-on guys]
+- Andrew [waiting for his github id, hold-on guys and gals]
 - combly
 
 Congratulations, you’ve finished setting up your repo and now it’s time to start working! If you are unable to add more than 3 collaborators, make sure that you have added in your educational license in the 3 step.
