@@ -152,6 +152,6 @@ You can checkout different tags on your repository home page here:
   <img width="800"  src="images/tag.jpg">
 </p>
 
-Then submit the *link to your group repository* as well as the *tag name* to onQ. Want to update your submission? It is easy. Just create another *new tag*, and submit the *new tag name* and the *link to your group repository* to onQ. 
+Then submit the **link to your group repository** as well as the **tag name** to onQ. Want to update your submission? It is easy. Just create another **new tag**, and submit the **new tag name** and the **link to your group repository** to onQ. 
 
 :clap::clap::clap::clap:
