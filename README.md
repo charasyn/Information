@@ -6,7 +6,7 @@
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/badges)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-:+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding
+:+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding (who adds Emoji)
 
 :sparkles: Pull request welcomed! You name will be added here!!
 
