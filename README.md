@@ -77,13 +77,13 @@ https://github.com/features/actions
 Following the instruction and you will be able to use GitHub Actions for your course project. You will have 2,000 minutes test runtime per month for your project. You will find that at your repository homepage there is now one additional tab ‘Actions’. You will be able to find all the logs of all the test runs, and where it broke: 
 
 <p align="center">
-  <img width="700"  src="images/image7.png">
+  <img width="800"  src="images/image7.png">
 </p>
 
 Setting up GitHub Actions workflow for your project is simple. Since this is relatively new, we have setup a list of minimal template repositories for different languages here: https://github.com/CISC-CMPE-327. You can start to structure your project from there. The xxx.yml file in the folder `.github/workflows` define the workflow of your CI process. Different language uses different toolchains so please find your template according. But typically:
 
 <p align="center">
-  <img width="500"  src="images/image5.png">
+  <img width="400"  src="images/image5.png">
 </p>
 
 - `name`: the name of your CI process. Can be anything. You name it.
@@ -99,7 +99,7 @@ These templates provide you a starting point to setup your repository and unders
 The `passing` badge on the homepage (in the README file) still points to the original template. So make sure that you update the link accordingly pointing to your repository. 
 
 <p align="center">
-  <img width="500"  src="images/image2.png">
+  <img width="700"  src="images/image2.png">
 </p>
 
 ## 5. Clone the Repository to Your Laptop
