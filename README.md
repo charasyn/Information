@@ -8,7 +8,7 @@
 
 :+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding
 
-## 1. Create GitHub Account
+## 1. Create GitHub Account :star:
 Many of you may already have a GitHub account, if you do you can skip this step. If you don’t have an account, go to [github.com](github.com) and create one:
 
 <p align="center">
@@ -17,13 +17,13 @@ Many of you may already have a GitHub account, if you do you can skip this step.
 
 We recommend you choose the free plan for this course. You are able to skip all steps until you are asked to verify your email address. After verifying our email, you will be brought to your hello-world repository. 
 
-## 2. Where to Ask a Question?
+## 2. Where to Ask a Question? :question:
 There is an `issues` tab right up there :point_up:. Cannot find it? Click <a href='https://github.com/CISC-CMPE-327/Assignment-Instructions/issues'>HERE</a>. To ask a question, follow two steps:
 
 - Frist, search for related issue using the `Filters` box. 
 - If no one asked before, create an issue with a title that summazie your whole question. Then fill in the body of your question. You can copy screenshot and parse into the text box as well. 
 
-## 3. Add Education License
+## 3. Add Education License :heartpulse:
 Go to https://education.github.com/discount_requests/new and add your Queen’s email to receive GitHub’s Education benefits for free.
 
 <p align="center">
@@ -33,7 +33,7 @@ Go to https://education.github.com/discount_requests/new and add your Queen’s 
 
 You will be asked to verify the account in Email Settings. Once the address is verified, your benefits should be accessible.
 
-## 4. Create a Private GitHub Repository
+## 4. Create a Private GitHub Repository :zap:
 Now that you have an account, you can create your repository (repo) for the course. Only one person per group needs to create a repo. 
 Navigate to your repositories page and click the green button in the upper-right labeled `New` to create a new repo. 
 
@@ -51,7 +51,7 @@ Name your repo and make sure to change your repo to Private. As well, you’ll w
 </p>
 
 
-## 5. Add Collaborators
+## 5. Add Collaborators :ocean:
 Go to the Settings tab of your new repository and select the Collaborators option on the left.
 
 <p align="center">
@@ -70,7 +70,7 @@ Next, add each of the TA’s accounts as collaborators as well - this will allow
 
 Congratulations, you’ve finished setting up your repo and now it’s time to start working! If you are unable to add more than 3 collaborators, make sure that you have added in your educational license in the 3 step.
 
-## 6. Sign up GitHub Actions (for Continuous Integration):
+## 6. Sign up GitHub Actions (for Continuous Integration): :ok_hand:
 With GitHub Actions, you will be able to automatically run all your test cases directly on the cloud, whenever you make changes to your codebase. Sign up Github Actions by going to the link below and click `sign up for the beta`.
 https://github.com/features/actions
 
