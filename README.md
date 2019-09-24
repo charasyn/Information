@@ -35,7 +35,7 @@ You will be asked to verify the account in Email Settings. Once the address is v
 
 ## 4. Create a Private GitHub Repository
 Now that you have an account, you can create your repository (repo) for the course. Only one person per group needs to create a repo. 
-Navigate to your repositories page and click the green button in the upper-right labeled “New” to create a new repo. 
+Navigate to your repositories page and click the green button in the upper-right labeled `New` to create a new repo. 
 
 
 <p align="center">
@@ -43,7 +43,7 @@ Navigate to your repositories page and click the green button in the upper-right
 </p>
 
 
-Name your repo (we suggest Quinterac) and make sure to change your repo to Private. As well, you’ll want to initialize your repo with a README file and add the license you chose for your project in Assignment 0.
+Name your repo and make sure to change your repo to Private. As well, you’ll want to initialize your repo with a README file and add the license you chose for your project in Assignment 0. Also pick a `.gitignore` file according to your chosen programming language. Basically it contains list of rules to ignore certain file extensions to be tracked in the repository (so basically they are ignored)
 
 
 <p align="center">
@@ -102,29 +102,54 @@ The `passing` badge on the homepage (in the README file) still points to the ori
   <img width="800"  src="images/image2.png">
 </p>
 
-## 5. Clone the Repository to Your Laptop
-git clone …
+## 5. Clone the Repository to Your Laptop :muscle:
 
+Open a terminal on your laptop and let's create a local copy of your GitHub repository by:
+```
+git clone your_repository_homepage_url
+```
+You will be asked to sign in GitHub. Now open your file explorer or finder, you will find that there is now a new folder created. It contains the files from your repository.
 
+## 6. Committing changes to Github :facepunch:
 
-## 6. Committing changes to Github
-First: make sure that you are working on the master branch 
-git branch -a
+You can make changes to your local repository in any ways you want. For example, you can download necessary files from our template repository and put it to the folder. But make sure that you didn't modify the `.git` folder which contains repository data that tracks the changes you made over time. 
 
-
-
+Every time you would like to commit your code to the repository, make sure that we have downloaded all the remote changes (made by other people) by executing:
+```
 git pull 
-
-
-git add all …
-git commit -m ...
+```
+If there is any error, possibly caused by the modification conflict made by you and the others, merge and address any changes in the files accordling. You can take a look at the changes you have made to the local repository if you want:
+```
+git diff
+```
+Now, we are ready to commit our code. First, we add all the changes we made.
+```
+git add .
+```
+Then, we create a local commit with a message:
+```
+git commit -m `yo this is a message for the commit, it supports emoji!`
+```
+Then we push the local commit to GitHub:
+```
 git push
+```
+Done! Check your repository home page. You will see the updated files. If you have a GitHub Action workflow defined, you can see you test codes are running on the `actions` tab!
 
 
+## 7. Creating a Tag for Assignment Submission :pray:
+Now ready for submission? It is easy. Just create a tag of current version of your code:
+```
+git tag v0.0.1
+```
+v0.0.1 is your chosen name of current version. The conversion of the naming starts with `v`. You can put whatever number. This tag is just created locally. We need to push it to GitHub:
+```
+git push --follow-tags
+```
+You can checkout different tags on your repository home page here:
 
-## 7. Creating a Tag for Assignment Submission
+<p align="center">
+  <img width="800"  src="images/tag.jpg">
+</p>
 
-
-
-## 8. Create
-
+Then submit the *link to your group repository* as well as the *tag name* to onQ. Want to update your submission? It is easy. Just create another *new tag*, and submit the *new tag name* and the *link to your group repository* to onQ. 
