@@ -1,4 +1,4 @@
-# Assignment Submission Instructions
+# :fire: Assignment Submission Instructions :fire:
 [![Generic badge](https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square)](https://shields.io/)
 [![HitCount](http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions.svg)](http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/issues/)
