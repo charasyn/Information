@@ -6,7 +6,7 @@
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/badges)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-Created By: Matt Dixon, Cesur Kavaslar, Steven Ding
+:+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding
 
 ## 1. Create GitHub account
 Many of you may already have a GitHub account, if you do you can skip this step. If you don’t have an account, go to [github.com](github.com) and create one:
