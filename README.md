@@ -1,7 +1,7 @@
 # :fire: Assignment Submission Instructions :fire:
 [![Generic badge](https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square)](https://shields.io/)
 [![HitCount](http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions.svg)](http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions)
-[![GitHub issues](https://img.shields.io/github/issues/CISC-CMPE-327/Assignment-Instructions.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+[![GitHub issues](https://img.shields.io/github/issues/CISC-CMPE-327/Assignment-Instructions.svg?style=flat-square)](https://GitHub.com/CISC-CMPE-327/Assignment-Instructions/issues/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/badges)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
