@@ -146,6 +146,10 @@ git tag v0.0.1
 ```
 v0.0.1 is your chosen name of current version. The conversion of the naming starts with `v`. You can put whatever number. This tag is just created locally. We need to push it to GitHub:
 ```
+git push --tags
+```
+If the above command line does not work:
+```
 git push --follow-tags
 ```
 You can checkout different tags on your repository home page here:
