@@ -55,7 +55,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   
 
 ### Git & GitHub Instruction. 🏄 
-In this course, all the assignments will be fully integrated with git and GitHub. This will be the common source code management pipeline used in the industrial. We will use git and GitHub for managing source code, running test cases, conducting code reviews, and managing documentations. Please go through the tutorial below throughoutly. 
+In this course, all the assignments will be fully integrated with git and GitHub. Git is currently a common source code management solution used in the industrial. We will use git and GitHub for managing source code, running test cases, conducting code reviews, and managing documentations. Please go through the tutorial below throughoutly. 
 
 - 👉  [GitHub Basics for Assignment Submission](instruction_github_basic.md)
 - 👉  [Basic Commands and Concepts in Git/GitHub: Commit, Branch, and Tag](BranchTagCommit.md)
