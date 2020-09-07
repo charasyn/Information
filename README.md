@@ -22,9 +22,9 @@
 
 What is this course about? An introductory course in the practical aspects of software quality. Validation of software throughout the life cycle. Comparative effectiveness in defect removal of formal methods (proofs of correctness), inspection (walkthroughs and reviews), and testing (unit, integration, and system testing; white box versus black box). The primary purpose of this course is to introduce the concepts, theory and practice of software quality assurance through testing, inspection, and measurement.
 
-**Textbook.** 📖  Lectures plus a range of library and web resources (for the main course content). CISC 327 Course Readings—available at the Queen’s Bookstore [Optional].
+- **Textbook.** 📖  Lectures plus a range of library and web resources (for the main course content). CISC 327 Course Readings—available at the Queen’s Bookstore [Optional].
 
-**Tutorials, laboratories and final exam.** 🧯 There are no formal tutorials. There are no scheduled labs, but you will require significant team lab time outside class to carry out your project assignments. There is no final exam.
+- **Tutorials, laboratories and final exam.** 🧯 There are no formal tutorials. There are no scheduled labs, but you will require significant team lab time outside class to carry out your project assignments. There is no final exam.
 
 
 <h2 align="center"> Where to Ask a Question? :question: </h2> 
