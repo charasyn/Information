@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center"> :fire: CISC/CMPE327 QA :fire: </h1>
+<p align="center">Instructor: Dr. Steven Ding</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square">
@@ -12,12 +13,12 @@
 <img src="https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen">
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
 </p>
-<p align="center">Instructor: Dr. Steven Ding</p>
-<p align="center">TAs (click to email)/p>
+
+<p align="center">Teaching Assistants</p>
 <p align="center">
   ✨ 
-  <a href="mailto:reetam.taj@queensu.ca"><img src="https://github.com/reetamtaj.png" height="30px" title="Reetam Taj"></a>
-  <a href="mailto:reetam.taj@queensu.ca"><img src="https://github.com/leordsong.png" height="30px" title="Leo Song"></a>
+  <img src="https://github.com/reetamtaj.png" height="30px" style="border-radius:50%" title="Reetam Taj"><a href="mailto:reetam.taj@queensu.ca">Reetam Taj</a>
+  <img src="https://github.com/leordsong.png" height="30px" style="border-radius:50%" title=""><a href="mailto:reetam.taj@queensu.ca">Leo Song</a>
   ✨ 
 </p>
 
