@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif" height="200px" alt="" />
+  <img src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif" height="250px" alt="" />
 </p>
 
 <h1 align="center"> :fire: CISC/CMPE327 QA :fire: </h1>
