@@ -27,7 +27,7 @@ What is this course about? An introductory course in the practical aspects of so
 **Tutorials, laboratories and final exam.** 🧯 There are no formal tutorials. There are no scheduled labs, but you will require significant team lab time outside class to carry out your project assignments. There is no final exam.
 
 
-<h2 align="center"> Where to Ask a Question? :question: <h2> 
+<h2 align="center"> Where to Ask a Question? :question: </h2> 
   
   
 There is an `issues` tab right up there :point_up:. Cannot find it? Click <a href='https://github.com/CISC-CMPE-327/Assignment-Instructions/issues'>HERE</a>. To ask a question, follow two steps:
@@ -36,7 +36,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 
 
 
-<h2 align="center"> Course Materials. :books: <h2> 
+<h2 align="center"> Course Materials. :books: </h2> 
   
 
 ### Git & GitHub Instruction. 🏄 
