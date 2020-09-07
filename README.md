@@ -38,7 +38,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 <h2 align="center"> Mini-Exams & Assignments :hammer: </h2> 
 
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" height="200px" alt="" />
+  <img src="https://github.com/CISC-CMPE-327/Information/raw/master/images/dino.gif" height="200px" alt="" />
 </p>
 
 | Assignments | Subject                         | Due | Mini-Exams                            | Due |
