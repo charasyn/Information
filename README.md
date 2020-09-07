@@ -37,72 +37,15 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 
 <h2 align="center"> Mini-Exams & Assignments :hammer: </h2> 
 
-<p align="center">
-  
-<table align="center">
-<thead>
-  <tr>
-    <th>Assignments</th>
-    <th>Subject</th>
-    <th>Due</th>
-    <th>Mini-Exams</th>
-    <th>Due</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Assignment #0</td>
-    <td>Choose teams</td>
-    <td>TBD</td>
-    <td>Mini-Exam #0 (Lectures 1–6)</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Assignment #1</td>
-    <td>Front end: requirements tests</td>
-    <td>TBD</td>
-    <td>Mini-Exam #1 (Lectures 7-16)</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Assignment #2</td>
-    <td>Front end: rapid prototype</td>
-    <td>TBD</td>
-    <td>Mini-Exam #2 (Lectures 17, 18, 20, 21, 22)</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Assignment #3</td>
-    <td>Front end: requirements testing</td>
-    <td>TBD</td>
-    <td>Mini-Exam #3 (Lectures 19, 24-26, 27, 28, 29)</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Assignment #4</td>
-    <td>Back end: rapid prototype</td>
-    <td>TBD</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Assignment #5</td>
-    <td>Back end: unit testing </td>
-    <td>TBD</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Assignment #6</td>
-    <td>Integration and delivery</td>
-    <td>TBD</td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
-
-</p>
+| Assignments | Subject                         | Due | Mini-Exams                                    | Due |
+|-------------|---------------------------------|-----|-----------------------------------------------|-----|
+| A0          | Choose teams                    | TBD | Mini-Exam #0 (Lectures 1–6)                   | TBD |
+| A1          | Front end: requirements tests   | TBD | Mini-Exam #1 (Lectures 7-16)                  | TBD |
+| A2          | Front end: rapid prototype      | TBD | Mini-Exam #2 (Lectures 17, 18, 20, 21, 22)    | TBD |
+| A3          | Front end: requirements testing | TBD | Mini-Exam #3 (Lectures 19, 24-26, 27, 28, 29) | TBD |
+| A4          | Back end: rapid prototype       | TBD |                                               |     |
+| A5          | Back end: unit testing          | TBD |                                               |     |
+| A6          | Integration and delivery        | TBD |                                               |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
   
