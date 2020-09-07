@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif" height="200px" alt="" />
 </p>
 
-<h1 align="center"> :fire: CISC/CMPE327 :fire: </h1>
+<h1 align="center"> :fire: CISC/CMPE327 QA :fire: </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square">
