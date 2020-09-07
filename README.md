@@ -12,12 +12,13 @@
 <img src="https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen">
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
 </p>
+<p align="center">Instructor: Dr. Steven Ding</p>
+<p align="center">TAs (click to email)/p>
 <p align="center">
-✨ Instructor: Dr. Steven Ding ✨
-</p>
-
-<p align="center">
-:+1: TAs: Reetam Taj, Leo Song, Ryan Fernandes, Stephanie Harber, Tongxu Ge, Derek Huang :+1: 
+  ✨ 
+  <a href="mailto:reetam.taj@queensu.ca"><img src="https://github.com/reetamtaj.png" height="30px" title="Reetam Taj"></a>
+  <a href="mailto:reetam.taj@queensu.ca"><img src="https://github.com/leordsong.png" height="30px" title="Leo Song"></a>
+  ✨ 
 </p>
 
 What is this course about? An introductory course in the practical aspects of software quality. Validation of software throughout the life cycle. Comparative effectiveness in defect removal of formal methods (proofs of correctness), inspection (walkthroughs and reviews), and testing (unit, integration, and system testing; white box versus black box). The primary purpose of this course is to introduce the concepts, theory and practice of software quality assurance through testing, inspection, and measurement.
