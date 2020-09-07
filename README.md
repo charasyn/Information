@@ -37,15 +37,15 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 
 <h2 align="center"> Mini-Exams & Assignments :hammer: </h2> 
 
-| Assignments | Subject                         | Due | Mini-Exams                                    | Due |
-|-------------|---------------------------------|-----|-----------------------------------------------|-----|
-| A0          | Choose teams                    | TBD | Mini-Exam #0 (Lectures 1–6)                   | TBD |
-| A1          | Front end: requirements tests   | TBD | Mini-Exam #1 (Lectures 7-16)                  | TBD |
-| A2          | Front end: rapid prototype      | TBD | Mini-Exam #2 (Lectures 17, 18, 20, 21, 22)    | TBD |
-| A3          | Front end: requirements testing | TBD | Mini-Exam #3 (Lectures 19, 24-26, 27, 28, 29) | TBD |
-| A4          | Back end: rapid prototype       | TBD |                                               |     |
-| A5          | Back end: unit testing          | TBD |                                               |     |
-| A6          | Integration and delivery        | TBD |                                               |     |
+| Assignments | Subject                         | Due | Mini-Exams                            | Due |
+|-------------|---------------------------------|-----|---------------------------------------|-----|
+| A0          | Choose teams                    | TBD | Mini-Exam #0 (L1–6)                   | TBD |
+| A1          | Front end: requirements tests   | TBD | Mini-Exam #1 (L7-16)                  | TBD |
+| A2          | Front end: rapid prototype      | TBD | Mini-Exam #2 (L17, 18, 20, 21, 22)    | TBD |
+| A3          | Front end: requirements testing | TBD | Mini-Exam #3 (L19, 24-26, 27, 28, 29) | TBD |
+| A4          | Back end: rapid prototype       | TBD |                                       |     |
+| A5          | Back end: unit testing          | TBD |                                       |     |
+| A6          | Integration and delivery        | TBD |                                       |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
   
