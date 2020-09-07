@@ -15,7 +15,7 @@
 
 <p align="center">Instructor: Dr. Steven Ding</p>
 <p align="center">
-  ✨TAs:  
+  ✨ TAs:  
   <a href="mailto:leo.song@queensu.ca">Leo Song</a>(<a href="https://github.com/leordsong">leordsong</a>)&nbsp;
   ✨ 
 </p>
