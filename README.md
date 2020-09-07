@@ -44,9 +44,9 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   <tr>
     <th>Assignments</th>
     <th>Subject</th>
-    <th>Deadline</th>
+    <th>Due</th>
     <th>Mini-Exams</th>
-    <th>Date</th>
+    <th>Due</th>
   </tr>
 </thead>
 <tbody>
