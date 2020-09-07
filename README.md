@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-:+1: TAs: 
+:+1: TAs: Reetam Taj, Leo Song, Ryan Fernandes, Stephanie Harber, Tongxu Ge, Derek Huang :+1: 
 </p>
 
 What is this course about? An introductory course in the practical aspects of software quality. Validation of software throughout the life cycle. Comparative effectiveness in defect removal of formal methods (proofs of correctness), inspection (walkthroughs and reviews), and testing (unit, integration, and system testing; white box versus black box). The primary purpose of this course is to introduce the concepts, theory and practice of software quality assurance through testing, inspection, and measurement.
