@@ -1,14 +1,19 @@
-# :fire: Assignment Submission Instructions :fire:
-[![Generic badge](https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square)](https://shields.io/)
-[![HitCount](http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions.svg)](http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions)
-[![GitHub issues](https://img.shields.io/github/issues/CISC-CMPE-327/Assignment-Instructions.svg?style=flat-square)](https://GitHub.com/CISC-CMPE-327/Assignment-Instructions/issues/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/badges)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+<h1 align="center"> :fire: GitHub Basics for Assignment Submission Instructions :fire: </h1>
 
+<p align="center">
+<img src="https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square">
+<img src="http://hits.dwyl.io/CISC-CMPE-327/Assignment-Instructions.svg">
+<img src="https://img.shields.io/github/issues/CISC-CMPE-327/Assignment-Instructions.svg?style=flat-square">
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
+<img src="https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square&color=brightgreen">
+<img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
+</p>
+<p align="center">
 :+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding (who adds Emoji and the badges)
-
+</p>
+<p align="center">
 :sparkles: Pull request welcomed! You name will be added here!!
+</p>
 
 ## 1. Create GitHub Account :star:
 Many of you may already have a GitHub account, if you do you can skip this step. If you don’t have an account, go to [github.com](github.com) and create one:
@@ -72,11 +77,8 @@ Next, add each of the TA’s accounts as collaborators as well - this will allow
 
 Congratulations, you’ve finished setting up your repo and now it’s time to start working! If you are unable to add more than 3 collaborators, make sure that you have added in your educational license in the 3 step.
 
-## 6. Sign up GitHub Actions (for Continuous Integration): :ok_hand:
-With GitHub Actions, you will be able to automatically run all your test cases directly on the cloud, whenever you make changes to your codebase. Sign up Github Actions by going to the link below and click `sign up for the beta`.
-https://github.com/features/actions
-
-Following the instruction and you will be able to use GitHub Actions for your course project. You will have 2,000 minutes test runtime per month for your project. You will find that at your repository homepage there is now one additional tab ‘Actions’. You will be able to find all the logs of all the test runs, and where it broke: 
+## 6.  GitHub Actions (for Continuous Integration): :ok_hand:
+With GitHub Actions, you will be able to automatically run all your test cases directly on the cloud, whenever you make changes to your codebase. GitHub actions are available by default. You will be able to use GitHub Actions for your course project. You will have 2,000 minutes test runtime per month for your project. You will find that at your repository homepage there is now one additional tab ‘Actions’. You will be able to find all the logs of all the test runs, and where it broke: 
 
 <p align="center">
   <img width="800"  src="images/image7.png">
