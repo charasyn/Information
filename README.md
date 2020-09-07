@@ -35,6 +35,74 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 - If no one asked before, create an issue with a title that summazie your whole question. Then fill in the body of your question. You can copy screenshot and parse into the text box as well. 
 
 
+<h2 align="center"> Mini-Exams & Assignments :hammer: </h2> 
+
+<p align="center">
+  
+<table align="center">
+<thead>
+  <tr>
+    <th>Assignments</th>
+    <th>Subject</th>
+    <th>Deadline</th>
+    <th>Mini-Exams</th>
+    <th>Date</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Assignment #0</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>Mini-Exam #0</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Assignment #1</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>Mini-Exam #1</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Assignment #2</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>Mini-Exam #2</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Assignment #3</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>Mini-Exam #3</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Assignment #4</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Assignment #5</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Assignment #6</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+</p>
 
 <h2 align="center"> Course Materials. :books: </h2> 
   
