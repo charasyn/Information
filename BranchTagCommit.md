@@ -8,5 +8,5 @@ For the web-application:
 Once the repository is created, click on the name of the repository from the list ot go inside it. As provided below, click on the "master" option and an option will appear to find or create new branch. Add a name of the branch in the textbox and then click on the option below the textbox "Create branch: 'branchname' from masters". After clicking that option, you will be utomatically redirected into the intended branch.
 
 <p align="center">
-  <img width="600"  src="images/Branch_Creation.png">
+  <img width="600"  src="images/Branch_Creation.PNG">
 </p>
