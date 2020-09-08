@@ -68,12 +68,8 @@ Go to the Settings tab of your new repository and select the Collaborators optio
 
 First, add each of your team members’ GitHub Accounts as collaborators to the repo.
 Next, add each of the TA’s accounts as collaborators as well - this will allow us to mark your assignments.
-- steven-hh-ding
-- mattdixon97
-- cesurk
-- Ghazall1993
-- DrJessop
-- combly
+
+***[please find each TAs GitHub name at the course home page]***
 
 Congratulations, you’ve finished setting up your repo and now it’s time to start working! If you are unable to add more than 3 collaborators, make sure that you have added in your educational license in the 3 step.
 
