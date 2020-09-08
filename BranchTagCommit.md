@@ -113,11 +113,11 @@ First, you can use github's "Merge pull request" button at the bottom of your pu
 After you successfully merge the branch to the master, you will be seeing an option to keep or delete the branches.
 If the pull request cannot be merged online due to merge conflicts, or you want to perform some experimentation locally before sending the merge to the repo on Github, you can perform the merge locally instead. 
 
-In long standing branches, merging can often cause lots problems when updating if changes in a given branch conflict with changes recently merged into the master branch. If there are many commits to the same file, git merge may force you to fix the same merge conflicts over and over again, causing a real headache. While there are many ways to mitigate this issue, such as enabling git rerere to reuse recorded resolution of conflict merges, squashing a series of related changes into 1 commit and cherry-picking it into the master is a great solution, especially for topic branches and isolated features.
+In long standing branches, merging can often cause lots problems when updating if changes in a given branch conflict with changes recently merged into the master branch. If there are many commits to the same file, git merge may force you to fix the same merge conflicts over and over again. While there are several ways to mitigate this issue, such as enabling git rerere to reuse recorded resolution of conflict merges, squashing a series of related changes into 1 commit and cherry-picking it into the master is a great solution, especially for topic branches and isolated features.
 
 There are several advantages of these methods. First, you only have to deal with merge conflicts once. Second, each commit represents an entire set of changes required for a feature or task, which makes it easy to pin point bugs and other problems when they arise and to remove a change set when it's no longer necessary.
 
-Github recently introduced these options (squash, rebase) online to handle conflicts efficiently and they also provide a detailed instructions on merging the pull request in the command line. The options are indicated in the below screenshots.
+Github recently introduced these options (squash, rebase) online to handle conflicts efficiently and they also provide a detailed instructions on merging the pull request through the command line. The options are indicated in the below screenshots.
 
 <p align="center">
   <img width="700"  src="images/Merge_pull_opt.png">
