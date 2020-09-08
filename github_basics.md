@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square&color=brightgreen">
 </p>
 <p align="center">
-:+1: Created By: Matt Dixon, Cesur Kavaslar, Steven Ding (who adds Emoji and the badges)
+:+1: Created By: Matt Dixon, Cesur Kavaslar, Andrew Boulos, Steven Ding (who adds Emoji and the badges)
 </p>
 <p align="center">
 :sparkles: Pull request welcomed! You name will be added here!!
