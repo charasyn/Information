@@ -19,24 +19,32 @@ A pull request proposes your changes and allows collaborators to review the chan
 
 You can make a pull request from a branch or a forked repository.
 
-To make a pull request from a branch:
+To make a pull request from a branch: 
+
 1. Navigate to your repository
+
 2. Select your branch <br>
 ![Fork](./images/select-branch.png)
+
 3. Click pull request button  <br>
 ![PR](./images/PR.png)
+
 4. It opens up a new page where you can add additional information for your pull request
-    5. Select the destination branch and click `Create pull request`  <br>
-    ![Destination](./images/destination.png)
-    6. Fill in the title
-    7. Write some comments if necessary
-    8. Select reviewers by clicking `Reviwers`  <br>
-    ![Reviewer](./images/reviewers.png)
+
+5. Select the destination branch and click `Create pull request`  <br>
+![Destination](./images/destination.png)
+    
+6. Fill in the title
+
+7. Write some comments if necessary
+
+8. Select reviewers by clicking `Reviwers`  <br>
+![Reviewer](./images/reviewers.png)
 
 To make a pull request from a forked repository, start from the third point of making a pull request from a branch.
 
 
-##Code Review
+## Code Review
 
 The reviewers selected during making a pull request can review the code changes.
 
