@@ -61,6 +61,7 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 ### Lectures & Notes 💪
 
+(click to expand)
 
 <details><summary>👉  Week 1 (Sept 8) Introduction to Quality Assurance, Software Process</summary>
 <p>
