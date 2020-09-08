@@ -34,7 +34,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 Go to https://education.github.com/discount_requests/new and add your Queen’s email to receive GitHub’s Education benefits for free.
 
 <p align="center">
-  <img width="600"  src="images/image6.png">
+  <img width="600"  src="images/edu.png">
 </p>
 
 
