@@ -78,10 +78,10 @@ git push
 Pull requests help you to notify your teammates about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties with required access can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. When you are inside a specifcic branch, you can submit a pull request by clicking on the "Pull request" button as shown below. After clicking the button, you will be taken to another screen where you can write/upload details about your pool request. Finally you can click on the "Create pull request" button to complete the process of creating the pull request. Once the pull request is submitted, you can find it by clicking on "Pull request" tab located at the homepage of that specific repository. PLease find all these details in the below images.
 
 <p align="center">
-  <img width="700"  src="images/Pull_req1.png">
+  <img width="700"  src="images/Pull_req1.PNG">
 </p>
 <p align="center">
-  <img width="700"  src="images/Pull_req2.png">
+  <img width="700"  src="images/Pull_req2.PNG">
 </p>
 <p align="center">
   <img width="700"  src="images/Pull_req3.png">
