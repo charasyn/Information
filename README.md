@@ -59,7 +59,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 ### Git & GitHub Instruction. 🏄 
 In this course, all the assignments will be fully integrated with git and GitHub. Git is currently a common source code management solution used in the industrial. We will use git and GitHub for managing source code, running test cases, conducting code reviews, and managing documentations. Please go through the tutorial below throughoutly. 
 
-- 👉  [GitHub Basics for Assignment Submission](instruction_github_basic.md)
+- 👉  [GitHub Basics for Assignment Submission](https://github.com/CISC-CMPE-327/Information/blob/master/github_basics.md)
 - :soon: TBA  [Working as a Team with Branches and Pull Request](BranchTagCommit.md)
 - :soon: TBA  [Working as a Team with Folks and Pull Request](ContributionInstructions.md)
 
