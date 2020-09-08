@@ -1,4 +1,4 @@
-## 1. Branching on Github :star:
+## 1. GitHub Repository Branches:star:
 Often, we need to add features and functionalities to our existing programs. There is always a significant risk of breaking the current working solution while adding these features. Git provides a feature to develop and experiment with the new features before merging into the operational master branch. As similar to its name, a 'branch' is the parallel version of the repository development's mainline. As mentioned earlier, branches are mostly used to develop features, fix bugs, and experiment with new ideas.
 In the below tutorial, we will cover both the command-line instructions and Web-UI instruction to perform tasks related to branching.
 
@@ -29,4 +29,20 @@ To link the newly created branch to GitHub, use the below command.
 ```
 git push -u origin *branchname*
 ```
+You can make your experimental changes to any of the content inside the branch.
+
+
+## - Checking differences between different branches (branches and master)
+
+In the below example, I created a branch (Test_branch) and added a file "test.md" which is not present in the master. In order to check the difference, click on the compare option which is at the right-upper corner as indicated in the below screeshot.
+
+<p align="center">
+  <img width="700"  src="images/Diff_branch.png">
+</p>
+
+As indicated below, the branch has been changed with 1 addition (test.md) and 0 deletion. 
+
+<p align="center">
+  <img width="700"  src="images/Diff_branch_res.png">
+</p>
 
