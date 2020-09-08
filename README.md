@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">Instructor: Dr. Steven Ding</p>
+<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming</p>
 <p align="center">
   ✨ TAs:  
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (<a href="https://github.com/leordsong">leordsong</a>)&nbsp;
