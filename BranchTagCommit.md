@@ -17,7 +17,7 @@ For command-line:
 
 We can use the below command to create a new branch.
 ```
-git checkout -b "branchname"
+git checkout -b <branchname>
 ```
 where -b tells checkout to create a new branch
 
@@ -27,7 +27,7 @@ git branch
 ```
 To link the newly created branch to Github, use the below command.
 ```
-git push -u origin "branchname"
+git push -u origin <branchname>
 ```
 You can make your experimental changes to any of the content inside the branch.
 
@@ -67,7 +67,7 @@ The branches can be merged with the master once the developemt is complete in th
 
 ```
 git checkout master
-git merge protlength
+git merge <branchname>
 git push
 ```
 
@@ -199,7 +199,7 @@ git tag -d v1.0 v1.1 (local)
 git push origin -d v1.0 v1.1 (remote)
 ```
 
-We cannot directly check out tags in git. We can create branch from a tag and checkout the branch. Follow the bolow command in order to execute the process.
+We cannot directly checkout tags in github. We can create branch from a tag and checkout the branch. Follow the bolow command in order to execute the process.
 ```
 git checkout -b <branch name> <tag name>
 ```
