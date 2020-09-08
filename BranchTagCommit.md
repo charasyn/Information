@@ -137,7 +137,7 @@ git push origin --delete "branchname"
 git remote prune origin
 ```
 
-## 1. Github Repository Tagging:star:
+## 2. Github Repository Tagging:star:
 
 Tagging in git refers to creating specific points in history for your repository and data. Tagging is usually done to mark release points of the stable version of your code.
 To create a tag, firstly check out the branch where you want to create the tag. To checkout the current branch use the below command.
@@ -183,7 +183,7 @@ git tag -d <tag name>
 or 
 git tag --delete <tag name>
 ```
-TO delete the tags from the remote, use below commands.
+To delete the tags from the remote, use below commands.
 
 ```
 git push origin -d <tag name>
@@ -192,7 +192,22 @@ git push origin --delete <tag name>
 or
 git push origin :<tag name>
 ```
+To delete multiple tags at once, use the below commands
 
+```
+git tag -d v1.0 v1.1 (local)
+git push origin -d v1.0 v1.1 (remote)
+```
 
+We cannot directly check out tags in git. We can create branch from a tag and checkout the branch. Follow the bolow command in order to execute the process.
+```
+git checkout -b <branch name> <tag name>
+```
 
+We can also create a tag for past commits using the below command.
+
+```
+git tag <tag name> <reference of commit>
+```
+where the reference number is the checksum associated with the commit. The history of commits and checksum number can be accessed through "git log" command.
 
