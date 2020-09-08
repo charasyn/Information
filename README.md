@@ -70,7 +70,7 @@ Introduction: Course info. What is Quality? What is Quality Assurance? Software 
 
 Software Process I: Quality in context. Software process activities. The Waterfall model. The Prototyping model. Evolutionary development.
 
-Question:
+Study questions:
 - Fill in the blank: "Know what you're doing", "know what you should be doing", "know how to ????"
 - What are the four fundamental process activities?
 - What are some drawbacks and benefits of the waterfall model? the spiral model? etc.
@@ -101,11 +101,6 @@ Study questions:
 Extreme Programming II: XP in Practice: The planning game, small releases, metaphor, simplicity, refactoring, pair programming, standards.
 
 Introduction to Systematic Testing: Validation and Verification. Levels of Testing. Unit, integration, system, acceptance testing. + Review for mini-exam
-
-Study questions:
-- List two advantages of the XP practice "On-site Customer".
-- XP practice 4, "Simplicity", favours designing for today over accounting for future needs. How might this lead to wasted work?
-- We talked a little about safety-critical systems like Therac-25. Do you think XP would be a good process model for safety-critical software? Why or why not?
 
 </p>
 </details>
