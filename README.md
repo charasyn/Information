@@ -40,7 +40,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 
 | Assignments | Subject                         | Due | Mini-Exams                            | Due |
 |-------------|---------------------------------|-----|---------------------------------------|-----|
-| A0          | Choose teams                    | TBD | Mini-Exam #0 (L1–6)                   | TBD |
+| A0          | Choose teams                    |  W3 | Mini-Exam #0 (L1–6)                   |  W4 |
 | A1          | Front end: requirements tests   | TBD | Mini-Exam #1 (L7-16)                  | TBD |
 | A2          | Front end: rapid prototype      | TBD | Mini-Exam #2 (L17, 18, 20, 21, 22)    | TBD |
 | A3          | Front end: requirements testing | TBD | Mini-Exam #3 (L19, 24-26, 27, 28, 29) | TBD |
