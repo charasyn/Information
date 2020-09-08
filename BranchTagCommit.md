@@ -2,7 +2,7 @@
 Often, we need to add features and functionalities to our existing programs. There is always a significant risk of breaking the current working solution while adding these features. Git provides a feature to develop and experiment with the new features before merging into the operational master branch. As similar to its name, a 'branch' is the parallel version of the repository development's mainline. As mentioned earlier, branches are mostly used to develop features, fix bugs, and experiment with new ideas.
 In the below tutorial, we will cover both the command-line instructions and Web-UI instruction to perform tasks related to branching.
 
-## - Creating a new branch 
+- ## Creating a new branch 
 
 For the web-application:
 
@@ -32,7 +32,9 @@ git push -u origin *branchname*
 You can make your experimental changes to any of the content inside the branch.
 
 
-## - Checking differences between different branches (branches and master)
+- ## Checking differences between different branches (branches and master)
+
+For the web-application:
 
 In the below example, I created a branch (Test_branch) and added a file "test.md" which is not present in the master. In order to check the difference, click on the compare option which is at the right-upper corner as indicated in the below screeshot.
 
@@ -46,3 +48,15 @@ As indicated below, the branch has been changed with 1 addition (test.md) and 0 
   <img width="700"  src="images/Diff_branch_res.png">
 </p>
 
+For command-line:
+
+To view the difference between the current branch and the 'master' branch. Use the below command.
+```
+git diff master
+```
+
+If 'git diff' is used by itself (with no following parameter), it will show us differences from the most recent commit.
+We can also use git diff with a commit identifier to see the differences between
+the current version and a specified commit or with two commit identifiers to see the
+differences between two specific commits.
+If you need to find difference with a specific file, add the file name at the end of the commment.
