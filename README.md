@@ -66,9 +66,17 @@ In this course, all the assignments will be fully integrated with git and GitHub
 <details><summary>👉  Week 1 (Sept 8) Introduction to Quality Assurance, Software Process</summary>
 <p>
 
-Introduction: Course info. What is Quality? What is Quality Assurance? Software Quality Assurance. Formal methods, testing, inspection, metrics. Achieving software quality.
 
-Software Process I: Quality in context. Software process activities. The Waterfall model. The Prototyping model. Evolutionary development.
+- L1: Introduction
+  - Course info. 
+  - Software Quality. 
+  - Software Quality Assurance. 
+
+- L2: Software Process I:
+  - Quality in context. Software process activities.
+  - The Waterfall model.
+  - The Prototyping model.
+  - Evolutionary development.
 
 Study questions:
 - Fill in the blank: "Know what you're doing", "know what you should be doing", "know how to ????"
@@ -91,6 +99,7 @@ Study questions:
 - List two advantages of the XP practice "On-site Customer".
 - XP practice 4, "Simplicity", favours designing for today over accounting for future needs. How might this lead to wasted work?
 - We talked a little about safety-critical systems like Therac-25. Do you think XP would be a good process model for safety-critical software? Why or why not?
+
 
 </p>
 </details>
