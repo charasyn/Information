@@ -6,8 +6,7 @@ In the below tutorial, we will cover both the command-line instructions and Web-
 
 For the web-application:
 
-
-Once the repository is created, click on the repository's name from the list to go inside it. As provided below, click on the "master" dropdown, and an option will appear: find or create a new branch. Add the branch's name in the textbox and then click on the option below the textbox "Create branch: <branchname> from masters." After clicking that option, you will be automatically redirected to the intended branch. Feel free to play around inside your branch without affecting the content in master.
+Once the repository is created, click on the repository's name from the list to go inside it. As provided below, click on the "master" dropdown, and a textbox will appear: find or create a new branch. Add the branch's name in the textbox and then click on "Create branch: <branchname> from masters." After clicking on it, the brach will be created, and you will be automatically redirected to the intended branch. Feel free to play around inside your branch without affecting the content in the master.
 
 <p align="center">
   <img width="700"  src="images/Branch_Creation.PNG">
