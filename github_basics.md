@@ -37,6 +37,11 @@ Go to https://education.github.com/discount_requests/new and add your Queen’s 
   <img width="600"  src="images/edu.png">
 </p>
 
+<p align="center">
+  <img width="600"  src="images/image6.png">
+</p>
+
+
 
 You will be asked to verify the account in Email Settings. Once the address is verified, your benefits should be accessible.
 
@@ -62,7 +67,7 @@ Name your repo and make sure to change your repo to Private. As well, you’ll w
 Go to the Settings tab of your new repository and select the Collaborators option on the left.
 
 <p align="center">
-  <img width="600"  src="images/image6.png">
+  <img width="600"  src="images/image3.png">
 </p>
 
 
