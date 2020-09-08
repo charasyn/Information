@@ -7,7 +7,7 @@ In the below tutorial, we will cover both the command-line instructions and Web-
 For the web-application:
 
 
-Once the repository is created, click on the repository's name from the list to go inside it. As provided below, click on the "master" dropdown, and an option will appear to find or create a new branch. Add the branch's name in the textbox and then click on the option below the textbox "Create branch: 'branchname' from masters." After clicking that option, you will be utomatically redirected into the intended branch. Feel free to play around inside your branch without affecting the content in master.
+Once the repository is created, click on the repository's name from the list to go inside it. As provided below, click on the "master" dropdown, and an option will appear: find or create a new branch. Add the branch's name in the textbox and then click on the option below the textbox "Create branch: <branchname> from masters." After clicking that option, you will be automatically redirected to the intended branch. Feel free to play around inside your branch without affecting the content in master.
 
 <p align="center">
   <img width="700"  src="images/Branch_Creation.PNG">
@@ -25,7 +25,7 @@ If you need to confirm the current branch you are using, try the below command.
 ```
 git branch
 ```
-To link the newly created branch to GitHub, use the below command.
+To link the newly created branch to Github, use the below command.
 ```
 git push -u origin "branchname"
 ```
@@ -76,7 +76,7 @@ git push
 **Creating a pull request**
 
 
-Pull requests help you to notify your teammates about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties with required access can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. When you are inside a specific branch, you can submit a pull request by clicking on the "Pull request" button, as shown below.  Once the pull request is submitted, you can find it by clicking on "Pull request" tab located at the homepage of that specific repository. Please find all these details in the below images.
+Pull requests help you to notify your teammates about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties with required access can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. When you are inside a specific branch, you can submit a pull request by clicking on the "Pull request" button. 
 
 <p align="center">
   <img width="700"  src="images/Pull_req1.PNG">
