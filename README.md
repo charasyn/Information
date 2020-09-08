@@ -20,6 +20,10 @@
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (<a href="https://github.com/leordsong">leordsong</a>)&nbsp;
   ✨ 
 </p>
+<h3 align="center"> Course Intro Video </h3>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=-mijftItlvA"><img src="https://img.youtube.com/vi/-mijftItlvA/hqdefault.jpg"/></a>
+</p>
 
 What is this course about? An introductory course in the practical aspects of software quality. Validation of software throughout the life cycle. Comparative effectiveness in defect removal of formal methods (proofs of correctness), inspection (walkthroughs and reviews), and testing (unit, integration, and system testing; white box versus black box). The primary purpose of this course is to introduce the concepts, theory and practice of software quality assurance through testing, inspection, and measurement.
 
@@ -50,7 +54,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | A6          | Integration and delivery        | TBD |                                       |     |
 
 <h2 align="center"> Course Materials. :books: </h2> 
-  
+
 
 ### Git & GitHub Instruction. 🏄 
 In this course, all the assignments will be fully integrated with git and GitHub. Git is currently a common source code management solution used in the industrial. We will use git and GitHub for managing source code, running test cases, conducting code reviews, and managing documentations. Please go through the tutorial below throughoutly. 
@@ -61,6 +65,7 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 
 ### Lectures & Notes 💪
+
 
 (click titles below for details)
 
