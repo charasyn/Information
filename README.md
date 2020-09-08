@@ -20,7 +20,7 @@
 <p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming</p>
 <p align="center">
   ✨ TAs:  
-  <a href="mailto:leo.song@queensu.ca">Leo Song</a> (<a href="https://github.com/leordsong">leordsong</a>)&nbsp;
+  <a href="mailto:leo.song@queensu.ca">Leo Song</a> (<a href="https://github.com/leordsong">leordsong</a>)&nbsp; ... [TBA]
   ✨ 
 </p>
 <h3 align="center"> Course Intro Video </h3>
