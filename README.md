@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif" height="250px" alt="" />
 </p>
+<p align="center">
+  <p align="center">[Current meme winner: NA (check out the issues tab up there)]</p>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/CISC.CMPE.327-awesome-brightgreen.svg?style=flat-square">
