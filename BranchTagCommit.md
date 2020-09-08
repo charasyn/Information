@@ -60,3 +60,41 @@ We can also use git diff with a commit identifier to see the differences between
 the current version and a specified commit or with two commit identifiers to see the
 differences between two specific commits.
 If you need to find difference with a specific file, add the file name at the end of the commment.
+
+- ## Merging the branches
+
+The branches can be merged with the master once the developemt is complete in the brancher. Use the below command in order to execute this task. We need to check out the master branch and then merge the branch. At the end, the merged master branch needs to pushed to GitHub.
+
+```
+git checkout master
+git merge protlength
+git push
+```
+
+- ## GitHub pull requests
+
+**Creating a pull request**
+
+
+Pull requests help you to notify your teammates about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties with required access can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. When you are inside a specific branch, you can submit a pull request by clicking on the "Pull request" button, as shown below.  Once the pull request is submitted, you can find it by clicking on "Pull request" tab located at the homepage of that specific repository. Please find all these details in the below images.
+
+<p align="center">
+  <img width="700"  src="images/Pull_req1.PNG">
+</p>
+After clicking the button, you will be taken to another screen where you can write/upload details about your pool request. Finally you can click on the "Create pull request" button to complete the process of creating the pull request.
+
+<p align="center">
+  <img width="700"  src="images/Pull_req2.PNG">
+</p>
+
+Once the pull request is submitted, you can find it by clicking on "Pull request" tab located at the homepage of that specific repository.
+
+<p align="center">
+  <img width="700"  src="images/Pull_req3.png">
+</p>
+
+
+
+
+
+
