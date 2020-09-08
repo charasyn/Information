@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif" height="250px" alt="" />
 </p>
 <p align="center">
-  <p align="center">[Current meme winner: NA (check out the issues tab up there)]</p>
+  <p align="center">[Current meme winner: NA - Checkout the <a href="https://github.com/CISC-CMPE-327/Information/issues/2">competition</a>]</p>
 </p>
 
 <p align="center">
