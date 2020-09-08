@@ -93,6 +93,18 @@ Once the pull request is submitted, you can find it by clicking on "Pull request
   <img width="700"  src="images/Pull_req3.png">
 </p>
 
+**Using a pull request**
+You can write comments related to a pull request, view all the commits by all contained by a pull request under the commits tab,
+or see all the file changes from the pull request across all the commits under the "Files Changed" tab. You can event leave a comment on particular lines in the code change simply by hovering to the left of a line and clicking on the blue note icon. All these options can be found in the "Pull request" tab as mentioned in the above section.
+
+**Merging a pull request**
+Once you finalize the changes , you can merge the changes back to master. There are a few ways to do this.
+
+First, you can use github's "Merge pull request" button at the bottom of your pull request to merge your changes. This is only applicable when there is no merge conflict with the base branch. If no conflict,  you just have to add a commit message and click on "Confirm Merge" to merge the changes.
+
+<p align="center">
+  <img width="700"  src="images/Merge_pull.png">
+</p>
 
 
 
