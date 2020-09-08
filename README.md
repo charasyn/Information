@@ -57,7 +57,7 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 - 👉  [GitHub Basics for Assignment Submission](instruction_github_basic.md)
 - 👉  [Basic Commands and Concepts in Git/GitHub: Commit, Branch, and Tag](BranchTagCommit.md)
-- 👉  [Working as a Team: Folk, Pull Request, Code Review, and Merging](other_file.md)
+- 👉  [Working as a Team: Folk, Pull Request, Code Review, and Merging](ContributionInstructions.md)
 
 
 ### Lectures & Notes 💪
