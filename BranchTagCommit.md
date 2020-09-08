@@ -7,9 +7,15 @@ In the below tutorial, we will cover both the command-line instructions and Web-
 For the web-application:
 
 
-Once the repository is created, click on the name of the repository from the list ot go inside it. As provided below, click on the "master" option and an option will appear to find or create new branch. Add a name of the branch in the textbox and then click on the option below the textbox "Create branch: 'branchname' from masters". After clicking that option, you will be utomatically redirected into the intended branch.
+Once the repository is created, click on the repository's name from the list to go inside it. As provided below, click on the "master" dropdown, and an option will appear to find or create a new branch. Add the branch's name in the textbox and then click on the option below the textbox "Create branch: 'branchname' from masters." After clicking that option, you will be utomatically redirected into the intended branch. Feel free to play around inside your branch without affecting the content in master.
 
 <p align="center">
   <img width="700"  src="images/Branch_Creation.PNG">
 </p>
 
+For command-line:
+
+```
+git checkout -b branchname
+```
+where -b tells checkout to create a new branch
