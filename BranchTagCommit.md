@@ -17,7 +17,7 @@ For command-line:
 
 We can use the below command to create a new branch.
 ```
-git checkout -b *branchname*
+git checkout -b "branchname"
 ```
 where -b tells checkout to create a new branch
 
@@ -27,7 +27,7 @@ git branch
 ```
 To link the newly created branch to GitHub, use the below command.
 ```
-git push -u origin *branchname*
+git push -u origin "branchname"
 ```
 You can make your experimental changes to any of the content inside the branch.
 
@@ -128,15 +128,70 @@ Github recently introduced these options (squash, rebase) online to handle confl
 TO delete the branch from the local machine, use the below command.
 
 ```
-git branch -d **branchname**
+git branch -d "branchname"
 ```
 To delete the branch on Github, we need the following two commands.
 
 ```
-git push origin --delete **branchname**
+git push origin --delete "branchname"
 git remote prune origin
 ```
 
+## 1. Github Repository Tagging:star:
+
+Tagging in git refers to creating specific points in history for your repository and data. Tagging is usually done to mark release points of the stable version of your code.
+To create a tag, firstly check out the branch where you want to create the tag. To checkout the current branch use the below command.
+```
+git checkout <branch name>
+```
+
+Then create a tag and give it a name. 
+
+```
+git tag <tag name>
+```
+
+To verify if the tag is already created, use the below command.
+```
+git tag
+```
+
+To create an annotated tag, use the below command.
+
+```
+git tag -a v1.0 -m "creating version 1.0"
+```
+
+To check the details of a specific tag, use the below command
+
+```
+git show <tag name>
+```
+
+To push the tag to the github (remote), use the blow command.
+```
+git push origin <tag name>
+```
+
+To push all the tags at once, use the below commands.
+```
+git push origin --tags
+```
+To delete the tags from the local, use the bolow commands
+```
+git tag -d <tag name>
+or 
+git tag --delete <tag name>
+```
+TO delete the tags from the remote, use below commands.
+
+```
+git push origin -d <tag name>
+or
+git push origin --delete <tag name>
+or
+git push origin :<tag name>
+```
 
 
 
