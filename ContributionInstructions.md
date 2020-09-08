@@ -26,12 +26,14 @@ To make a pull request from a branch:
 3. Click pull request button  <br>
 ![PR](./images/PR.png)
 4. It opens up a new page where you can add additional information for your pull request
-    5. Select the destination branch and click `Create pull request`  <br>
-    ![Destination](./images/destination.png)
-    6. Fill in the title
-    7. Write some comments if necessary
-    8. Select reviewers by clicking `Reviwers`  <br>
-    ![Reviewer](./images/reviewers.png)
+5. Select the destination branch  <br>
+![Destination](./images/destination.png)
+6. Fill in the title
+7. Write some comments if necessary
+8. Select reviewers by clicking `Reviwers`  <br>
+![Reviewer](./images/reviewers.png)
+
+9.Click `Create pull request`
 
 To make a pull request from a forked repository, start from the third point of making a pull request from a branch.
 
