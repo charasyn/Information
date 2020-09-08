@@ -17,7 +17,7 @@ For command-line:
 
 We can use the below command to create a new branch.
 ```
-git checkout -b branchname
+git checkout -b *branchname*
 ```
 where -b tells checkout to create a new branch
 
@@ -27,6 +27,6 @@ git branch
 ```
 To link the newly created branch to GitHub, use the below command.
 ```
-git push -u origin <b>branchname</b>
+git push -u origin *branchname*
 ```
 
