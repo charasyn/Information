@@ -77,9 +77,9 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 
 - L1: Introduction
-  - Course info. 
-  - Software Quality. 
-  - Software Quality Assurance. 
+  - [Course info](lectures/W1-L1-1.pdf)
+  - [Software Quality](lectures/W1-L1-2.pdf)
+  - [Software Quality Assurance](lectures/W1-L1-3.pdf)
 
 - L2: Software Process I:
   - Quality in context. Software process activities.
