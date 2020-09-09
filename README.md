@@ -78,8 +78,11 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 - L1: Introduction
   - [Course info](lectures/W1-L1-1.pdf)
+    - https://stream.queensu.ca/Watch/Gt89Bbj2
   - [Software Quality](lectures/W1-L1-2.pdf)
-  - [Software Quality Assurance](lectures/W1-L1-3.pdf)
+    - https://stream.queensu.ca/Watch/s6QXx9q8
+  - [Software Quality Assurance](lectures/W1-L1-3.pdf) 
+    - https://stream.queensu.ca/Watch/w3KNj6f2
 
 - L2: Software Process I:
   - Quality in context. Software process activities.
