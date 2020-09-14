@@ -18,6 +18,8 @@
 
 <p align="center">Instructor: Dr. Steven Ding</p>
 <p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>
+<p align="center"> Last week: Chat with Leo</p>
+<p align="center"> This week: GitHub Walk Through</p>
 <p align="center">
   ✨ TAs:  
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (git: <a href="https://github.com/leordsong">leordsong</a>)&nbsp; ... [TBA]
