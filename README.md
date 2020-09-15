@@ -87,10 +87,12 @@ In this course, all the assignments will be fully integrated with git and GitHub
     - https://stream.queensu.ca/Watch/w3KNj6f2
 
 - L2: Software Process I:
-  - Quality in context. Software process activities.
-  - The Waterfall model.
-  - The Prototyping model.
-  - Evolutionary development.
+  - [Quality in context. Software process activities](lectures/W1-L2-1.pdf)
+    - https://stream.queensu.ca/Watch/Qn6m5AMg
+  - [The Waterfall model](lectures/W1-L2-2.pdf)
+    - https://stream.queensu.ca/Watch/j7MHn6k3
+  - [The Prototyping model & Evolutionary development](lectures/W1-L2-3.pdf)
+    - https://stream.queensu.ca/Watch/Lb6d4B7Z
 
 Study questions:
 - Fill in the blank: "Know what you're doing", "know what you should be doing", "know how to ????"
