@@ -92,7 +92,7 @@ In this course, all the assignments will be fully integrated with git and GitHub
   - [The Waterfall model](lectures/W1-L2-2.pdf)
     - https://stream.queensu.ca/Watch/j7MHn6k3
   - [The Prototyping model & Evolutionary development](lectures/W1-L2-3.pdf)
-    - https://stream.queensu.ca/Watch/Lb6d4B7Z
+    
 
 Study questions:
 - Fill in the blank: "Know what you're doing", "know what you should be doing", "know how to ????"
