@@ -74,6 +74,17 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 (click titles below for details)
 
+<details><summary>Tutorials (unofficial)</summary>
+<p>
+
+- T1: [GitHub basics](tutorials/Tutorial%201.pdf)
+- T2: Conflicts, Branching, and Pull-Request
+- T3: Fork and Pull-Request
+- T4: Template workthrough and CI
+
+</p>
+</details>
+
 <details><summary>👉  Week 1 (Sept 8) Introduction to Quality Assurance, Software Process</summary>
 <p>
 
