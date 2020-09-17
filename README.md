@@ -82,6 +82,7 @@ In this course, all the assignments will be fully integrated with git and GitHub
 - T2: Conflicts, Branching, and Pull-Request
 - T3: Fork and Pull-Request
 - T4: Template workthrough and CI
+- T5: Docker & Docker Compose
 
 </p>
 </details>
