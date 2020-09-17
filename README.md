@@ -78,6 +78,7 @@ In this course, all the assignments will be fully integrated with git and GitHub
 <p>
 
 - T1: [GitHub basics](tutorials/Tutorial%201.pdf)
+  - Practice: git clone, git add, git status, git commit, git diff, git push
 - T2: Conflicts, Branching, and Pull-Request
 - T3: Fork and Pull-Request
 - T4: Template workthrough and CI
