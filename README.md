@@ -115,20 +115,25 @@ Study questions:
 </p>
 </details>
 
-<details><summary>:soon:  Week 2 (Sept 14) Software Process Evaluation, Extreme Programming</summary>
+<details><summary>👉  Week 2 (Sept 14) Software Process Evaluation</summary>
 <p>
 
-Software Process II: The Spiral model. The Iterative Development Process (IDP). The Object Oriented Development Process.
+[ This week's videos are queued for processing - I have been waiting for 12+ hours 😡 ]
 
-Software Process Evaluation: Software process improvement. The Defect Prevention Process (DPP). Software quality standards. Maturity models, CMM, SPR. Baldrige Quality Award, ISO 9000.
+- L3: 
+  - [Spiral Model](lectures/W2-L1.pdf)
+  - [Iterative & OOM Model](lectures/W2-L2.pdf)
+- L4:
+  - [Scrum Model](lectures/W2-L11.pdf)
+  - [Process Evaluation](lectures/W2-L12.pdf)
+  - [Standards, Maturity & Certification](lectures/W2-L13.pdf)
+ 
 
-Extreme Programming I: What is XP? Why is it called extreme? Characteristics of XP. Addressing risks before they arise.
-
-Study questions:
-- List two advantages of the XP practice "On-site Customer".
-- XP practice 4, "Simplicity", favours designing for today over accounting for future needs. How might this lead to wasted work?
-- We talked a little about safety-critical systems like Therac-25. Do you think XP would be a good process model for safety-critical software? Why or why not?
-
+Study Questions:
+- pros and cons of all discussed software models
+- scrum model activities and roles
+- matuarity level vs certification
+- DPP vs Postmortem
 
 </p>
 </details>
