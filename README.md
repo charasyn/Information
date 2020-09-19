@@ -118,7 +118,7 @@ Study questions:
 <details><summary>👉  Week 2 (Sept 14) Software Process Evaluation</summary>
 <p>
 
-[ This week's videos are queued for processing - I have been waiting for 12+ hours 😡 ]
+[ This week's videos are queued for processing - I have been waiting for 24+ hours 😡 ]
 
 - L3: 
   - [Spiral Model](lectures/W2-L1.pdf)
