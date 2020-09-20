@@ -18,8 +18,8 @@
 
 <p align="center">Instructor: Dr. Steven Ding</p>
 <p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>
-<p align="center"> Last week: Chat with Leo</p>
-<p align="center"> This week: GitHub Walk Through</p>
+<p align="center"> Last week: GitHub Walk Through</p>
+<p align="center"> This week: Branching and Pull-Request</p>
 <p align="center">
   ✨ TAs:  
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (git: <a href="https://github.com/leordsong">leordsong</a>)&nbsp; ... [TBA]
@@ -118,15 +118,20 @@ Study questions:
 <details><summary>👉  Week 2 (Sept 14) Software Process Evaluation</summary>
 <p>
 
-[ This week's videos are queued for processing - I have been waiting for 24+ hours 😡 ]
+[ This week's videos are queued for processing - I have been waiting for 36+ hours 😡 ]
 
 - L3: 
   - [Spiral Model](lectures/W2-L1.pdf)
+    -  Video waiting to be processed by Queen's
   - [Iterative & OOM Model](lectures/W2-L2.pdf)
+    - https://stream.queensu.ca/Watch/z7PSt2s6
 - L4:
   - [Scrum Model](lectures/W2-L11.pdf)
+    -  Video waiting to be processed by Queen's
   - [Process Evaluation](lectures/W2-L12.pdf)
+    -  Video Waiting to be processed by Queen's
   - [Standards, Maturity & Certification](lectures/W2-L13.pdf)
+    -  Video waiting to be processed by Queen's
  
 
 Study Questions:
