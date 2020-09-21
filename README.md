@@ -118,20 +118,20 @@ Study questions:
 <details><summary>👉  Week 2 (Sept 14) Software Process Evaluation</summary>
 <p>
 
-[ This week's videos are queued for processing - I have been waiting for 3 days.... 😡 ]
+Some videos are on Youtube rather than streams.queens.ca, cause I am still waiting for those to be processed.
 
 - L3: 
   - [Spiral Model](lectures/W2-L1.pdf)
-    -  Video waiting to be processed by Queen's
+    - https://youtu.be/uwq8UByowJU
   - [Iterative & OOM Model](lectures/W2-L2.pdf)
     - https://stream.queensu.ca/Watch/z7PSt2s6
 - L4:
   - [Scrum Model](lectures/W2-L11.pdf)
-    -  Video waiting to be processed by Queen's
+    - https://youtu.be/qV9OADWEPvU
   - [Process Evaluation](lectures/W2-L12.pdf)
-    -  Video Waiting to be processed by Queen's
+    - https://youtu.be/6O6YIqwXnMI
   - [Standards, Maturity & Certification](lectures/W2-L13.pdf)
-    -  Video waiting to be processed by Queen's
+    - https://youtu.be/BRCpBv7HL5Y
  
 
 Study Questions:
