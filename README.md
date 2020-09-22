@@ -25,6 +25,7 @@
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (git: <a href="https://github.com/leordsong">leordsong</a>)&nbsp; ... [TBA]
   ✨ 
 </p>
+<p align="center">TA Office Hours - Tue. 12pm-1pm on [<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGUwNTU4MjktNTlmOS00MzQyLTgxYWQtMDZlZWY2NDNkNDli%40thread.v2/0?context=%7b%22Tid%22%3a%22d61ecb3b-38b1-42d5-82c4-efb2838b925c%22%2c%22Oid%22%3a%22c4a760a5-b5c6-4d0c-ae28-f6ce2825e21f%22%7d">M$ Teams </a>] Fri. 4pm-5pm on [<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzgzMjQ2NTYtZTNlYy00MjcyLThhZmQtYTIzZjE3ZWQwOTU5%40thread.v2/0?context=%7b%22Tid%22%3a%22d61ecb3b-38b1-42d5-82c4-efb2838b925c%22%2c%22Oid%22%3a%22c4a760a5-b5c6-4d0c-ae28-f6ce2825e21f%22%7d">M$ Teams </a>]</p>
 <h3 align="center"> Course Intro Video </h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=-mijftItlvA"><img src="https://img.youtube.com/vi/-mijftItlvA/hqdefault.jpg"/></a>
