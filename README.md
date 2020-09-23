@@ -49,6 +49,13 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   <img src="https://github.com/CISC-CMPE-327/Information/raw/master/images/dino.gif" height="200px" alt="" />
 </p>
 
+<p align="center">
+  [Mini-Exams will be available on Thurseday of the week number listed below. You will be able to start any time of the day but given a timelimit. Questions randomized so everyone will get their own variants.]
+</p>
+<p align="center">
+  [We will only count top-3 mini-exams at the end of this course, except accademic integrity issues; that's why you see there is a grade dropped on Onq.]
+</p>
+
 | Assignments | Subject                         | Due | Mini-Exams                            | Due |
 |-------------|---------------------------------|-----|---------------------------------------|-----|
 | A0          | Choose teams                    |  W3 | Mini-Exam #0 (L1–6)                   |  W4 |
