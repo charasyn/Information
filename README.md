@@ -50,10 +50,10 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 </p>
 
 <p align="center">
-  [Mini-Exams will be available on Thurseday of the week number listed below. You will be able to start any time of the day but given a timelimit. Questions randomized so everyone will get their own variants.]
+  [Mini-Exams will be available on Thursday of the week number listed below. You will be able to start any time of the day but given a timelimit. Questions randomized so everyone will get their own variants.]
 </p>
 <p align="center">
-  [We will only count top-3 mini-exams at the end of this course, except accademic integrity issues; that's why you see there is a grade dropped on Onq.]
+  [We will only count top-3 mini-exams at the end of this course, except academic integrity issues; that's why you see there is a grade dropped on Onq.]
 </p>
 
 | Assignments | Subject                         | Due | Mini-Exams                            | Due |
