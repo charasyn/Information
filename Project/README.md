@@ -23,15 +23,15 @@ Every 1–2 weeks, you will deliver a progress report or other evidence of your 
 ## 💺 Project Phases
 
 The project will be done in several phases, each of which will be an assignment. Phases will cover steps in the process of creating a quality software result in the context of an eXtreme Programming process model.
-Assignments will be on the quality control aspects of requirements, rapid prototyping, design, coding, integration and analysis of the product you are building. 
-Throughout the project, you should keep records of all evidence of your product quality control steps and evolution, in order to make the marketing case that you have a quality result at the end of the course.
+Assignments will be on the quality control aspects of requirements, rapid prototyping, design, coding, integration, and analysis of the building's product. 
+Throughout the project, you should keep records of all evidence of your product quality control steps and evolution to make the marketing case that you have a quality result at the end of the course.
 
 Your final products will be tested and evaluated by an independent evaluator.
 
 ## 💺 Project Schedule
 
 The course project consists of six assignments, with separate handouts for each one.
-Assignments are scheduled to be due as indicated on the course website (preliminary, subject to change).
+Assignments are scheduled to be due, as indicated on the course website (preliminary, subject to change).
 
 ## 💺 Hand-In
 
