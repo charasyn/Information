@@ -74,4 +74,3 @@ Then the backend merge the transactions and yield the new account details and av
 ![image](https://user-images.githubusercontent.com/8474647/94140562-689e0980-fe39-11ea-8b75-f160d6931c73.png)
 
 If there are any conflicts (such as same ticket sold to different people, not enough balance), the backend office will simply log it and let the customer services to call and resolve issues. We also provide a GitHub testing template we created last year with pytest [here](https://github.com/CISC-CMPE-327/CI-Python/tree/python-cli-with-pytest).
-=======
