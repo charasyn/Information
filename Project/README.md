@@ -1,4 +1,3 @@
-<<<<<<< project-description
 <h1 align='center'>🍿 An Extreme Course Project: SeetGeek 🍿</h1>
 
 <p align='center'>CISC 327  -  Fall 2020</p>
@@ -76,5 +75,3 @@ Then the backend merge the transactions and yield the new account details and av
 
 If there are any conflicts (such as same ticket sold to different people, not enough balance), the backend office will simply log it and let the customer services to call and resolve issues. We also provide a GitHub testing template we created last year with pytest [here](https://github.com/CISC-CMPE-327/CI-Python/tree/python-cli-with-pytest).
 =======
-
->>>>>>> master
