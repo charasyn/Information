@@ -8,7 +8,7 @@
 
 ## 💺 Project Teams
 
-You are to form a team of two to four (preferably three) people to design, implement, document and deliver a two-part software product.  All phases should follow the eXtreme Programming philosophy as much as it applies - in particular, 
+You are to form a team of two to four (preferably four) people to design, implement, document and deliver a two-part software product.  All phases should follow the eXtreme Programming philosophy as much as it applies - in particular, 
 
 - continuously maintained test suites as requirements and quality control
 - pair programming of all code
