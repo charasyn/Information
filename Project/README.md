@@ -1,8 +1,5 @@
 <h1 align='center'>🍿 An Extreme Course Project: SeetGeek 🍿</h1>
-<p align='center'>
-<img src="https://lh3.googleusercontent.com/proxy/oNhb9FtBwglurZr9_Yg3YayuLGIiyFqxZq0x8Tx2IR4l84s8ifMVlB_oOWpNAYZm3TLkN3Dm2XK20zOpYgKdXkt4SbyAIJkvjc3WbV9_Y3vyPf5z_F98RJNRkcAwGII5VK3AN43jNlgvcO-moM9Tb7kgLbuzKiTnTOZZQXhfKzLoXt3kmqoM38BUuoZu9dgNbxYl"></img>
-</p>
-<p align='center'>[Not SeatGeek]</p>
+
 <p align='center'>CISC 327  -  Fall 2020</p>
 
 
