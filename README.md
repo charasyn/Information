@@ -17,9 +17,13 @@
 </p>
 
 <p align="center">Instructor: Dr. Steven Ding</p>
-<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>
-<p align="center"> Last week: GitHub Walk Through</p>
-<p align="center"> This week: Branching and Pull-Request</p>
+<!--<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>-->
+<p align="center">
+***Live Streaming is not available this week. Instead I recorded the tutorial.***
+</p>
+<p align="center"> 
+  This week: Branching and Pull-Request <a href="https://stream.queensu.ca/Watch/Lw2s9DRb">video</a> <a href="tutorials/Tutorial%202.pdf">slides</a> !!!important!!!
+</p>
 <p align="center">
   ✨ TAs:  
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (git: <a href="https://github.com/leordsong">leordsong</a>)&nbsp; ... [TBA]
@@ -87,7 +91,9 @@ In this course, all the assignments will be fully integrated with git and GitHub
 
 - T1: [GitHub basics](tutorials/Tutorial%201.pdf)
   - Practice: git clone, git add, git status, git commit, git diff, git push
-- T2: Conflicts, Branching, and Pull-Request
+- T2: [Branching, and Pull-Request](tutorials/Tutorial%202.pdf)
+  - Practice: see slides above
+  - Video: https://stream.queensu.ca/Watch/Lw2s9DRb
 - T3: Fork and Pull-Request
 - T4: Template workthrough and CI
 - T5: Docker & Docker Compose
