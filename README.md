@@ -62,15 +62,15 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
   [We will only count top-3 mini-exams at the end of this course, except academic integrity issues; that's why you see there is a grade dropped on Onq.]
 </p>
 
-| Assignments | Subject                         | Due | Mini-Exams                            | Due |
-|-------------|---------------------------------|-----|---------------------------------------|-----|
-|[A0](Project/A0.pdf)| Choose teams                    |  W3 | Mini-Exam #0 (L1–6)                   |  W4 |
-| A1          | Front end: requirements tests   | TBD | Mini-Exam #1 (L7-16)                  | TBD |
-| A2          | Front end: rapid prototype      | TBD | Mini-Exam #2 (L17, 18, 20, 21, 22)    | TBD |
-| A3          | Front end: requirements testing | TBD | Mini-Exam #3 (L19, 24-26, 27, 28, 29) | TBD |
-| A4          | Back end: rapid prototype       | TBD |                                       |     |
-| A5          | Back end: unit testing          | TBD |                                       |     |
-| A6          | Integration and delivery        | TBD |                                       |     |
+| Assignments | Subject                         | Due | Mini-Exams                         |   Due   |
+|-------------|---------------------------------|-----|------------------------------------|---------|
+|[A0](Project/A0.pdf)| Choose teams             |Sep-28| Mini-Exam #0                      |W04/Oct-01|
+| A1          | Front end: requirements tests   |Oct-12| Mini-Exam #1                      |W08      |
+| A2          | Front end: rapid prototype      |Oct-26| Mini-Exam #2                      |W11      |
+| A3          | Front end: requirements testing |Nov-09| Mini-Exam #3                      |W13      |
+| A4          | Back end: rapid prototype       |Nov-23|                                   |         |
+| A5          | Back end: unit testing          |Nov-30|                                   |         |
+| A6          | Integration and delivery        |Dec-10|                                   |         |
 
 <h2 align="center"> Course Materials. :books: </h2> 
 
