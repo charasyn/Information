@@ -28,7 +28,10 @@
   ✨ TAs:  
   <a href="mailto:leo.song@queensu.ca">Leo Song</a> (git: <a href="https://github.com/leordsong">leordsong</a>),
   <a href="mailto:reetam.taj@queensu.ca">Reetam Taj</a> (git: <a href="https://github.com/reetamtaj">reetamtaj</a>), 
-  <a href="mailto:17rf@queensu.ca">Ryan Fernandes</a> (git: <a href="https://github.com/Ryan-F3107">Ryan-F3107</a>) &nbsp; ... [TBA]
+  <a href="mailto:17rf@queensu.ca">Ryan Fernandes</a> (git: <a href="https://github.com/Ryan-F3107">Ryan-F3107</a>), 
+  <a href="mailto:16dclh@queensu.ca">Derek Huang</a> (git: <a href="https://github.com/derekhuangxd">derekhuangxd</a>),
+  <a href="mailto:tongxu.ge@queensu.ca">Tongxu Ge</a> (git: <a href="https://github.com/AM-Kitty">AM-Kitty</a>),
+  <a href="mailto:sah16@queensu.ca">Stephanie Harber</a> (git: <a href="https://github.com/saharber">saharber</a>),
   ✨ 
 </p>
 <p align="center">TA Office Hours - Tue. 12pm-1pm on [<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGUwNTU4MjktNTlmOS00MzQyLTgxYWQtMDZlZWY2NDNkNDli%40thread.v2/0?context=%7b%22Tid%22%3a%22d61ecb3b-38b1-42d5-82c4-efb2838b925c%22%2c%22Oid%22%3a%22c4a760a5-b5c6-4d0c-ae28-f6ce2825e21f%22%7d">M$ Teams</a>] Fri. 4pm-5pm on [<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzgzMjQ2NTYtZTNlYy00MjcyLThhZmQtYTIzZjE3ZWQwOTU5%40thread.v2/0?context=%7b%22Tid%22%3a%22d61ecb3b-38b1-42d5-82c4-efb2838b925c%22%2c%22Oid%22%3a%22c4a760a5-b5c6-4d0c-ae28-f6ce2825e21f%22%7d">M$ Teams</a>]</p>
