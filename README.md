@@ -172,7 +172,7 @@ Extreme Programming I+II: XP in Practice: The planning game, small releases, met
 
 Study Quetions:
 - What are the practices of XP programming?
-- What can possibly go wrotong with pair programming?
+- What can possibly go wrong with pair programming?
 - XP programming values? (interactions, simplicity, testing, ...)
 
 </p>
