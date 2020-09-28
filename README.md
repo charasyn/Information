@@ -141,16 +141,16 @@ Some videos are on Youtube rather than streams.queens.ca, cause I am still waiti
 
 - L3: 
   - [Spiral Model](lectures/W2-L1.pdf)
-    - https://youtu.be/uwq8UByowJU
+    - https://stream.queensu.ca/Watch/b3E5Jis6
   - [Iterative & OOM Model](lectures/W2-L2.pdf)
     - https://stream.queensu.ca/Watch/z7PSt2s6
 - L4:
   - [Scrum Model](lectures/W2-L11.pdf)
-    - https://youtu.be/qV9OADWEPvU
+    - https://stream.queensu.ca/Watch/Wy58Xkz4
   - [Process Evaluation](lectures/W2-L12.pdf)
-    - https://youtu.be/6O6YIqwXnMI
+    - https://stream.queensu.ca/Watch/a9GBm3g2
   - [Standards, Maturity & Certification](lectures/W2-L13.pdf)
-    - https://youtu.be/BRCpBv7HL5Y
+    - https://stream.queensu.ca/Watch/Nz5g3JTd
  
 
 Study Questions:
@@ -162,15 +162,37 @@ Study Questions:
 </p>
 </details>
 
-<details><summary>:soon:  Week 3 (Sept 17) Intro to Systematic Testing</summary>
+<details><summary>👉  Week 3 (Sept 21) XP - Extreme Programming</summary>
 <p>
 
-Extreme Programming II: XP in Practice: The planning game, small releases, metaphor, simplicity, refactoring, pair programming, standards.
+Extreme Programming I+II: XP in Practice: The planning game, small releases, metaphor, simplicity, refactoring, pair programming, standards.
 
-Introduction to Systematic Testing: Validation and Verification. Levels of Testing. Unit, integration, system, acceptance testing. + Review for mini-exam
+- L5 [XP Model](lectures/W3.pdf)
+    - Video: https://stream.queensu.ca/Watch/Tx3y7MHp
+
+Study Quetions:
+- What are the practices of XP programming?
+- What can possibly go wrotong with pair programming?
+- XP programming values? (interactions, simplicity, testing, ...)
 
 </p>
 </details>
 
+<details><summary>👉  Week 4 (Sept 28) Intro to Systematic Testing & <b>Mini-Exam #1</b> </summary>
+<p>
+  
+Mini-Exam:
+- [Review slides](lectures/R1.pdf)
+- [Sample Questions](lectures/Sample.pdf)
+- Review Video will be posted on Tuesday morning. (important!!)
+- Exam open from Thurseday noon to Friday evenining, 1.5 hours (same workload as a 40-minutes in-class quizz).
+
+(Belows are not part of our Mini-exam #1)
+Introduction to Systematic Testing: Validation and Verification. Levels of Testing. Unit, integration, system, acceptance testing.
+- L6 Introduction to Systematic Testing (TBA)
+- L7 Black Box Testing (TBA)
+
+</p>
+</details>
 
 
