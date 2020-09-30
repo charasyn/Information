@@ -184,7 +184,7 @@ Study Quetions:
 Mini-Exam:
 - [Review slides](lectures/R1.pdf)
 - [Sample Questions](lectures/Sample.pdf)
-- Review Video will be posted on Tuesday morning. (important!!)
+- Review Video https://stream.queensu.ca/Watch/Me9f8Y2W (important!!)
 - Exam open from Thurseday noon to Friday evenining, 1.5 hours (same workload as a 40-minutes in-class quizz).
 
 (Belows are not part of our Mini-exam #1)
