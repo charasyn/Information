@@ -19,10 +19,10 @@
 <p align="center">Instructor: Dr. Steven Ding</p>
 <!--<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>-->
 <p align="center">
-***Live Streaming is not available this week. Instead I recorded the tutorial.***
+***Live Streaming is not available this week to accommodate the mini-exam schedule***
 </p>
 <p align="center"> 
-  This week: Branching and Pull-Request <a href="https://stream.queensu.ca/Watch/Lw2s9DRb">video</a> <a href="tutorials/Tutorial%202.pdf">slides</a> !!!important!!!
+  Last week: Branching and Pull-Request <a href="https://stream.queensu.ca/Watch/Lw2s9DRb">video</a> <a href="tutorials/Tutorial%202.pdf">slides</a> !!!important!!!
 </p>
 <p align="center">
   ✨ TAs:  
@@ -185,7 +185,8 @@ Mini-Exam:
 - [Review slides](lectures/R1.pdf)
 - [Sample Questions](lectures/Sample.pdf)
 - Review Video https://stream.queensu.ca/Watch/Me9f8Y2W (important!!)
-- Exam open from Thurseday noon to Friday evenining, 1.5 hours (same workload as a 40-minutes in-class quizz).
+- Exam open from Thursday noon to Friday evenining, 1.5 hours (same workload as a 40-minutes in-class quiz).
+- Exam will be conducted through onQ.
 
 (Belows are not part of our Mini-exam #1)
 Introduction to Systematic Testing: Validation and Verification. Levels of Testing. Unit, integration, system, acceptance testing.
