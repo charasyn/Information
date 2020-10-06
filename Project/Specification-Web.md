@@ -108,16 +108,27 @@ For frontend test cases, we use mocking (to use a faked backend rather than actu
 
 Test case R1.3 - If the user has logged in, redirect to the uer profile page
 
-Conditions:
- - Mock backend.get_user to return a test_user instance
+Data:
+```
+test_user = User(
+    email='test_frontend@test.com',
+    name='test_frontend',
+    password=generate_password_hash('test_frontend')
+)
+```
+
+Mocking:
+ - Mock backend.get_user to return a test_user instance 
  
 Actions:
  - open /logout (to invalid any logged-in sessions may exist)
  - open /login
- - validate if the login form exists
- - enter test_user's user name and password, click submit button
+ - enter test_user's email into element `#email`
+ - enter test_user's password into element `#password`
+ - click element `input[type="submit"]`
  - open /login again
- - validate that current page is the user profile page (check welcome message).
+ - validate that current page contains `#welcome-header` element
+ 
  
 
 
