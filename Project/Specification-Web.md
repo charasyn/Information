@@ -53,7 +53,7 @@ Requirements and Contraints:
 | R2 | /register | [GET] |
 |  |  | If the user has logged in, redirect back to the user profile page / |
 |  |  | otherwise, show the user registration page |
-|  |  | the registration page shows a registration form requesting: email, user name, password, assword2 |
+|  |  | the registration page shows a registration form requesting: email, user name, password, password2 |
 |  |  | [POST] |
 |  |  | The registration form can be submitted as a POST request to the current url (/register) |
 |  |  | email, password, password2 all have to satisfy the same required as defined in R1 |
