@@ -14,7 +14,7 @@ One can also register directly through the portal. More specifications and requi
 
 
 ### Front-end:
-The we application handles a sequence of actions performed by the user on their browser. Consider there are two input domains: the URL input box and the rendered webpage to be interacted with the users. 
+The web application handles a sequence of actions performed by the user on their browser. Consider there are two input domains: the URL input box and the rendered webpage to be interacted with the users. 
 
 | Pages | The frontend mainly consists of the following pages: |                            |
 |-------|------------------------------------------------------|----------------------------|
