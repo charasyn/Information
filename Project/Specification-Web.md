@@ -14,4 +14,106 @@ One can also register directly through the portal. More specifications and requi
 
 
 ### Front-end:
+The we application handles a sequence of actions performed by the user on their browser. Consider there are two input domains: the URL input box and the rendered webpage to be interacted with the users. 
+
+| Pages | The frontend mainly consists of the following pages: |                            |
+|-------|------------------------------------------------------|----------------------------|
+|       | /login                                               | The user login page        |
+|       | /register                                            | The user registration form |
+|       | /                                                    | The user profile page      |
+
+| Routes | The frontend mainly consists of the following routes: |             |
+|--------|-------------------------------------------------------|-------------|
+|        | /login                                                | [GET, POST] |
+|        | /register                                             | [GET, POST] |
+|        | /                                                     | [GET]       |
+|        | /logout                                               | [GET, POST] |
+|        | /buy                                                  | [POST]      |
+|        | /sell                                                 | [POST]      |
+
+Requirements and Contraints:
+
+|  |  |  |
+|-|-|-|
+| R1 | /login  | [GET] |
+|  |  | If the user hasn't logged in, show the login page |
+|  |  | the login page has a message that by default says 'please login' |
+|  |  | If the user has logged in, redirect to the uer profile page |
+|  |  | The login page provides a login form which request two fields: email and passwords |
+|  |  | [POST] |
+|  |  | The login form can be submitted as a POST request to the current url (/login) |
+|  |  | email and password both cannot be empty |
+|  |  | email has to follow addr-spec defined in RFC 5322 (see https://en.wikipedia.org/wiki/Email_address for a human-friendly explaination) |
+|  |  | password has to meet the required complecity: minum length 6, at least one upper case, at least one lower case, and at least one special character |
+|  |  | for any formatting errors, render the login page and show message 'email/password format is incorrect.' |
+|  |  | If email/password are correct, redirect to / |
+|  |  | Otherwise, redict to /login and show message 'email/password combination incorrect' |
+|  |  |  |
+|  |  |  |
+| R2 | /register | [GET] |
+|  |  | If the user has logged in, redirect back to the user profile page / |
+|  |  | otherwise, show the user registration page |
+|  |  | the registration page shows a registration form requesting: email, user name, password, assword2 |
+|  |  | [POST] |
+|  |  | The registration form can be submitted as a POST request to the current url (/register) |
+|  |  | email, password, password2 all have to satisfy the same required as defined in R1 |
+|  |  | password and password2 have to be exactly the same |
+|  |  | user name has to be non-empty, alphanumeric-only, and space allowed only if it is not the first or the last character. |
+|  |  | user name has to be longer than 2 characters and less than 20 characters. |
+|  |  | for any formatting errors, redirect back to /login and show message '{} format is incorrect.'.format(the_corresponding_attribute) |
+|  |  | if the email already exists, show message 'this email has been ALREADY used' |
+|  |  | if no error regarding the inputs following the rules above, create a new user and go back to the /login page  |
+|  |  |  |
+|  |  |  |
+| R3 | / | [GET] |
+|  |  | If the user is not logged in, redirect to login page |
+|  |  | This page shows a header 'Hi {}'.format(user.name) |
+|  |  | This page shows user balance. |
+|  |  | This page shows a logout link, pointing to /logout |
+|  |  | This page lists a all available tickets, the quantity of each ticket and the price, for tickets that are not expired. |
+|  |  | This page contains a form that a user can submit new tickets for sell. Fields: name, quantity, price, expiration date |
+|  |  | This page contains a form that a user can buy new tickets. Fields: name, quantity |
+|  |  | The ticket-selling form can be posted to /sell |
+|  |  | The ticket-buying form can be posted to /buy |
+|  |  |  |
+| R4 | /sell | [POST] |
+|  |  | The name of the ticket has to be alphanumeric-only, and space allowed only if it is not the first or the last character. |
+|  |  | The name of the ticket is no longer than 60 characters |
+|  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
+|  |  | Price has to be of range [10, 100] |
+|  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
+|  |  | The added new ticket information will be posted on the user profile page |
+|  |  |  |
+| R5 | /buy | [POST] |
+|  |  | Constraint: |
+|  |  | The name of the ticket has to be alphanumeric-only, and space allowed only if it is not the first or the last character. |
+|  |  | The name of the ticket is no longer than 60 characters |
+|  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
+|  |  | The ticket name exists in the database and the quantity is more than the quantity requested to buy |
+|  |  | The user has more balance than the ticket price * quantity  + service fee (35%) + tax (5%) |
+|  |  |  |
+|  |  |  |
+| R6 | /logout | [POST] |
+|  |  | Logout will invalid the current session redirect to login page. After logout, the user shouldn't be able to access restricted pages. |
+|  |  |  |
+| R7 | /* | [any] |
+|  |  | For any other requests except the ones above, the system should return a 404 error |
+
+Example text case in natural language:
+
+(full list of selenium action api is [here](https://github.com/seleniumbase/SeleniumBase/blob/733b28ffd45533a9e82a834f0b1f3285189895f8/help_docs/method_summary.md))
+
+Test case R1.3 - If the user has logged in, redirect to the uer profile page
+
+Conditions:
+ - Mock backend.get_user to return a test_user instance
+Actions:
+ - open /logout (to invalid any logged-in sessions may exist)
+ - open /login
+ - validate if the login form exists
+ - enter test_user's user name and password, click submit button
+ - open /login again
+ - validate that current page is the user profile page (check welcome message).
+ 
+
 
