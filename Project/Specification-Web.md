@@ -75,6 +75,7 @@ Requirements and Contraints:
 |  |  | This page contains a form that a user can buy new tickets. Fields: name, quantity |
 |  |  | The ticket-selling form can be posted to /sell |
 |  |  | The ticket-buying form can be posted to /buy |
+|  |  | The ticket-update form can be posted to /update |
 |  |  |  |
 | R4 | /sell | [POST] |
 |  |  | The name of the ticket has to be alphanumeric-only, and space allowed only if it is not the first or the last character. |
@@ -84,7 +85,16 @@ Requirements and Contraints:
 |  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
 |  |  | The added new ticket information will be posted on the user profile page |
 |  |  |  |
-| R5 | /buy | [POST] |
+| R5 | /update | [POST] |
+|  |  | The name of the ticket has to be alphanumeric-only, and space allowed only if it is not the first or the last character. |
+|  |  | The name of the ticket is no longer than 60 characters |
+|  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
+|  |  | Price has to be of range [10, 100] |
+|  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
+|  |  | The updated ticket information will be also updated on the user profile page |
+|  |  | If the quality of the tickets is 0, it is removed from the list |
+|  |  |  |
+| R6 | /buy | [POST] |
 |  |  | Constraint: |
 |  |  | The name of the ticket has to be alphanumeric-only, and space allowed only if it is not the first or the last character. |
 |  |  | The name of the ticket is no longer than 60 characters |
@@ -93,10 +103,10 @@ Requirements and Contraints:
 |  |  | The user has more balance than the ticket price * quantity  + service fee (35%) + tax (5%) |
 |  |  |  |
 |  |  |  |
-| R6 | /logout | [POST] |
+| R7 | /logout | [POST] |
 |  |  | Logout will invalid the current session redirect to login page. After logout, the user shouldn't be able to access restricted pages. |
 |  |  |  |
-| R7 | /* | [any] |
+| R8 | /* | [any] |
 |  |  | For any other requests except the ones above, the system should return a 404 error |
 
 
