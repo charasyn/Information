@@ -99,14 +99,18 @@ Requirements and Contraints:
 | R7 | /* | [any] |
 |  |  | For any other requests except the ones above, the system should return a 404 error |
 
-Example text case in natural language:
+
+### :car: Example frontend test case in natural language:
 
 (full list of selenium action api is [here](https://github.com/seleniumbase/SeleniumBase/blob/733b28ffd45533a9e82a834f0b1f3285189895f8/help_docs/method_summary.md))
+
+For frontend test cases, we use mocking (to use a faked backend rather than actually running the backend, see [here](https://github.com/CISC-CMPE-327/CI-Python#pytest))
 
 Test case R1.3 - If the user has logged in, redirect to the uer profile page
 
 Conditions:
  - Mock backend.get_user to return a test_user instance
+ 
 Actions:
  - open /logout (to invalid any logged-in sessions may exist)
  - open /login
