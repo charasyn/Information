@@ -1,5 +1,5 @@
 
-## 💺 Project Requirement
+## 💺 Project Requirement - Web Option
 
 The product you are to design and build is the SeetGeek not SeatGeek online Customer-to-Customer ticket selling system.
 A registered user can buy and sell tickets through this online application.
@@ -84,6 +84,7 @@ Requirements and Contraints:
 |  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
 |  |  | Price has to be of range [10, 100] |
 |  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
+|  |  | For any errors, redirect back to / and show an error message |
 |  |  | The added new ticket information will be posted on the user profile page |
 |  |  |  |
 | R5 | /update | [POST] |
@@ -92,6 +93,7 @@ Requirements and Contraints:
 |  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
 |  |  | Price has to be of range [10, 100] |
 |  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
+|  |  | For any errors, redirect back to / and show an error message |
 |  |  |  |
 | R6 | /buy | [POST] |
 |  |  | Constraint: |
@@ -100,6 +102,7 @@ Requirements and Contraints:
 |  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
 |  |  | The ticket name exists in the database and the quantity is more than the quantity requested to buy |
 |  |  | The user has more balance than the ticket price * quantity  + service fee (35%) + tax (5%) |
+|  |  | For any errors, redirect back to / and show an error message |
 |  |  |  |
 |  |  |  |
 | R7 | /logout | [POST] |
