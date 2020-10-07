@@ -42,10 +42,10 @@ Requirements and Contraints:
 |  |  | The login page provides a login form which request two fields: email and passwords |
 |  |  | [POST] |
 |  |  | The login form can be submitted as a POST request to the current url (/login) |
-|  |  | email and password both cannot be empty |
-|  |  | email has to follow addr-spec defined in RFC 5322 (see https://en.wikipedia.org/wiki/Email_address for a human-friendly explaination) |
-|  |  | password has to meet the required complecity: minum length 6, at least one upper case, at least one lower case, and at least one special character |
-|  |  | for any formatting errors, render the login page and show message 'email/password format is incorrect.' |
+|  |  | Email and password both cannot be empty |
+|  |  | Email has to follow addr-spec defined in RFC 5322 (see https://en.wikipedia.org/wiki/Email_address for a human-friendly explaination) |
+|  |  | Password has to meet the required complecity: minum length 6, at least one upper case, at least one lower case, and at least one special character |
+|  |  | For any formatting errors, render the login page and show message 'email/password format is incorrect.' |
 |  |  | If email/password are correct, redirect to / |
 |  |  | Otherwise, redict to /login and show message 'email/password combination incorrect' |
 |  |  |  |
@@ -53,16 +53,16 @@ Requirements and Contraints:
 | R2 | /register | [GET] |
 |  |  | If the user has logged in, redirect back to the user profile page / |
 |  |  | otherwise, show the user registration page |
-|  |  | the registration page shows a registration form requesting: email, user name, password, password2 |
+|  |  | the registration page shows a registration form requesting: email, user name, password, assword2 |
 |  |  | [POST] |
 |  |  | The registration form can be submitted as a POST request to the current url (/register) |
-|  |  | email, password, password2 all have to satisfy the same required as defined in R1 |
-|  |  | password and password2 have to be exactly the same |
-|  |  | user name has to be non-empty, alphanumeric-only, and space allowed only if it is not the first or the last character. |
-|  |  | user name has to be longer than 2 characters and less than 20 characters. |
-|  |  | for any formatting errors, redirect back to /login and show message '{} format is incorrect.'.format(the_corresponding_attribute) |
-|  |  | if the email already exists, show message 'this email has been ALREADY used' |
-|  |  | if no error regarding the inputs following the rules above, create a new user and go back to the /login page  |
+|  |  | Email, password, password2 all have to satisfy the same required as defined in R1 |
+|  |  | Password and password2 have to be exactly the same |
+|  |  | User name has to be non-empty, alphanumeric-only, and space allowed only if it is not the first or the last character. |
+|  |  | User name has to be longer than 2 characters and less than 20 characters. |
+|  |  | For any formatting errors, redirect back to /login and show message '{} format is incorrect.'.format(the_corresponding_attribute) |
+|  |  | If the email already exists, show message 'this email has been ALREADY used' |
+|  |  | If no error regarding the inputs following the rules above, create a new user, set the balance to 5000, and go back to the /login page  |
 |  |  |  |
 |  |  |  |
 | R3 | / | [GET] |
@@ -70,7 +70,7 @@ Requirements and Contraints:
 |  |  | This page shows a header 'Hi {}'.format(user.name) |
 |  |  | This page shows user balance. |
 |  |  | This page shows a logout link, pointing to /logout |
-|  |  | This page lists a all available tickets, the quantity of each ticket and the price, for tickets that are not expired. |
+|  |  | This page lists a all available tickets. Information including the quantity of each ticket, the owner's email, and the price, for tickets that are not expired. |
 |  |  | This page contains a form that a user can submit new tickets for sell. Fields: name, quantity, price, expiration date |
 |  |  | This page contains a form that a user can buy new tickets. Fields: name, quantity |
 |  |  | The ticket-selling form can be posted to /sell |
@@ -91,8 +91,6 @@ Requirements and Contraints:
 |  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
 |  |  | Price has to be of range [10, 100] |
 |  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
-|  |  | The updated ticket information will be also updated on the user profile page |
-|  |  | If the quality of the tickets is 0, it is removed from the list |
 |  |  |  |
 | R6 | /buy | [POST] |
 |  |  | Constraint: |
@@ -108,7 +106,6 @@ Requirements and Contraints:
 |  |  |  |
 | R8 | /* | [any] |
 |  |  | For any other requests except the ones above, the system should return a 404 error |
-
 
 ### :car: Example frontend test case in natural language:
 
