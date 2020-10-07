@@ -93,6 +93,7 @@ Requirements and Contraints:
 |  |  | The quantity of the tickets has to be more than 0, and less than or equal 100. |
 |  |  | Price has to be of range [10, 100] |
 |  |  | Date must be given in the format YYYYMMDD (e.g. 20200901) |
+|  |  | The ticket of the given name must exists |
 |  |  | For any errors, redirect back to / and show an error message |
 |  |  |  |
 | R6 | /buy | [POST] |
