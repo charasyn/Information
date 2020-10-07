@@ -9,6 +9,7 @@ A registered user can buy and sell tickets through this online application.
 The above control flow roughly defines the functionalities and workflows of the system. An actor is able to access his/her home directory after logged-in. 
 One can also register directly through the portal. More specifications and requirements will be provided for assignment #1. 
 
+:fire: :fire: :fire:  [Template for the web option](https://github.com/CISC-CMPE-327/CI-Python)
 
 ## :fire: Specification - Web Option
 
