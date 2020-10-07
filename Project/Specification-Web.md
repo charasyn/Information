@@ -113,16 +113,18 @@ Requirements and Contraints:
 
 For frontend test cases, we use mocking (to use a faked backend rather than actually running the backend, see [here](https://github.com/CISC-CMPE-327/CI-Python#pytest))
 
-Test case R1.3 - If the user has logged in, redirect to the uer profile page
-
-Data:
+Test Data:
 ```
 test_user = User(
     email='test_frontend@test.com',
     name='test_frontend',
     password=generate_password_hash('test_frontend')
 )
+
 ```
+
+#### Test case R1.3 - If the user has logged in, redirect to the uer profile page
+
 
 Mocking:
  - Mock backend.get_user to return a test_user instance 
