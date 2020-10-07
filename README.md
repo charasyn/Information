@@ -68,7 +68,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Assignments | Subject                         | Due | Mini-Exams                         |   Due   |
 |-------------|---------------------------------|-----|------------------------------------|---------|
 |[A0](Project/A0.pdf)| Choose teams             |Sep-28| Mini-Exam #0                      |W04/Oct-01|
-| A1          | Front end: requirements tests   |Oct-15| Mini-Exam #1                      |W08      |
+|[A1](Project/A1.md)          | Front end: requirements tests   |Oct-15| Mini-Exam #1                      |W08      |
 | A2          | Front end: rapid prototype      |Oct-26| Mini-Exam #2                      |W11      |
 | A3          | Front end: requirements testing |Nov-09| Mini-Exam #3                      |W13      |
 | A4          | Back end: rapid prototype       |Nov-23|                                   |         |
