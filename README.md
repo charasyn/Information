@@ -19,10 +19,7 @@
 <p align="center">Instructor: Dr. Steven Ding</p>
 <!--<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>-->
 <p align="center">
-***Live Streaming is not available this week to accommodate the mini-exam schedule***
-</p>
-<p align="center"> 
-  Last week: Branching and Pull-Request <a href="https://stream.queensu.ca/Watch/Lw2s9DRb">video</a> <a href="tutorials/Tutorial%202.pdf">slides</a> !!!important!!!
+***Live Streaming with Leo and Me: resolving git conflicts***
 </p>
 <p align="center">
   ✨ TAs:  
