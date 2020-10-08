@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">Instructor: Dr. Steven Ding</p>
-<!--<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>-->
+<p align="center">Th 2:30PM - 3:30PM QA Talk - Live Streaming [Zoom link on <a href="https://onq.queensu.ca/">Onq</a>]</p>
 <p align="center">
 ***Live Streaming with Leo and Me: resolving git conflicts***
 </p>
