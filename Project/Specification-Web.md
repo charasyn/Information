@@ -107,7 +107,7 @@ Requirements and Constraints:
 |  |  |  |
 |  |  |  |
 | R7 | /logout | [POST] |
-|  |  | Logout will invalid the current session redirect to the login page. After logout, the user shouldn't be able to access restricted pages. |
+|  |  | Logout will invalid the current session and redirect to the login page. After logout, the user shouldn't be able to access restricted pages. |
 |  |  |  |
 | R8 | /* | [any] |
 |  |  | For any other requests except the ones above, the system should return a 404 error |
