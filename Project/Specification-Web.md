@@ -218,7 +218,7 @@ Actions:
  - open /logout (clean up)
  
 
-## :ghost: BAD Example that You Shouldn't Do:
+## :ghost: BAD Example that You Shouldn't Follow:
 
 #### Test case R6.4 - /buy[post] The ticket name exists in the database - positive
 
