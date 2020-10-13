@@ -212,7 +212,7 @@ Actions:
  - enter test_user's password into element `#password`
  - click element `input[type="submit"]`
  - open /
- - enter `test_tickent_nonexist` into element `#buy_name`
+ - enter `test_ticket_nonexisted_lol` into element `#buy_name`
  - enter test_ticket's quantity into element `#buy_quantity`
  - click element `#buy_submit`
  - validate that the `#buy_message` element shows `ahhhahhaha the ticket does not exist`
