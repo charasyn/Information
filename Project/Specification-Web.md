@@ -1,6 +1,7 @@
 
 ## 💺 Project Requirement - Web Option
 
+
 The product you are to design and build is the SeetGeek not SeatGeek online Customer-to-Customer ticket selling system.
 A registered user can buy and sell tickets through this online application.
 
@@ -135,7 +136,7 @@ Mocking:
  - Mock backend.get_user to return a test_user instance 
  
 Actions:
- - open /logout (to invalid any logged-in sessions may exist)
+ - open /logout (to invalidate any logged-in sessions that may exist)
  - open /login
  - enter test_user's email into element `#email`
  - enter test_user's password into element `#password`
@@ -144,5 +145,90 @@ Actions:
  - validate that current page contains `#welcome-header` element
  
  
+
+
+#### Test case R6.4 - /buy[post] The ticket name exists in the database - positive
+
+Additional Test Data:
+
+```
+
+test_ticket = Ticket(
+    owner='test_frontend@test.com',
+    name='test_ticket_yo',
+    quantity=10,
+    price=10,
+    date='20200901'
+)
+```
+
+Mocking:
+ - Mock backend.get_user to return a test_user instance 
+ - Mock backend.get_ticket to return a test_ticket instance
+
+Actions:
+ - open /logout (to invalidate any logged-in sessions that may exist)
+ - open /login
+ - enter test_user's email into element `#email`
+ - enter test_user's password into element `#password`
+ - click element `input[type="submit"]`
+ - open /
+ - enter test_ticket's name into element `#buy_name`
+ - enter test_ticket's quantity into element `#buy_quantity`
+ - click element `#buy_submit`
+ - validate that the `#buy_message` element shows `successful`
+ - open /logout (clean up)
+ 
+ Note:
+(`get_ticket` and `Ticket` do not exist yet, but it is your initial designs of the backend interface)
+
+(element `#buy_name`,  `#buy_quantity` and `#buy_submit`, etc. do not exist yet, but they are your initial design of your frontent interface)
+
+
+#### Test case R6.4 - /buy[post] The ticket name exists in the database - negative
+(the example above shows the postive case, we need to test the negative case)
+
+Additional Test Data:
+
+```
+
+test_ticket = Ticket(
+    owner='test_frontend@test.com',
+    name='test_ticket_yo',
+    quantity=10,
+    price=10,
+    date='20200901'
+)
+```
+
+Mocking:
+ - Mock backend.get_user to return a test_user instance 
+ - Mock backend.get_ticket to return a test_ticket instance
+
+Actions:
+ - open /logout (to invalidate any logged-in sessions that may exist)
+ - open /login
+ - enter test_user's email into element `#email`
+ - enter test_user's password into element `#password`
+ - click element `input[type="submit"]`
+ - open /
+ - enter `test_ticket_nonexisted_lol` into element `#buy_name`
+ - enter test_ticket's quantity into element `#buy_quantity`
+ - click element `#buy_submit`
+ - validate that the `#buy_message` element shows `ahhhahhaha the ticket does not exist`
+ - open /logout (clean up)
+ 
+
+## :ghost: BAD Example that You Shouldn't Follow:
+
+#### Test case R6.4 - /buy[post] The ticket name exists in the database - positive
+
+Actions:
+ - follow the information above to login the webpage
+ - input the ticket information into the form
+ - make sure that the system checks the ticket's name exists in the database.
+ 
+Why it is BAD? If you give this to someone else and assume that they won't read the specification, can they implement the test code directly based on what you described? We need to provide what is needed in details.
+
 
 
