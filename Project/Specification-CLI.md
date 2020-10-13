@@ -178,5 +178,21 @@ Expected Output File Content:
  - Not applicable to this requirement. (but will be used for other requirements)
  
  
+### :ghost: BAD Example that You Shouldn't Follow:
+
+
+Program Inputs: 
+```
+login first,
+then go to the sell session,
+then type  vvvvvvvvvvvvvvvvvvvvveryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy_long_ticket as the ticket name
+```
+
+Expected Tails of stdout Program Output (match the last several lines of program output):
+```
+The program outputs an error message. 
+```
+
+Why this is bad? If you give this to someone else who will actually write the test code, they don't know how to do it. 
  
  
