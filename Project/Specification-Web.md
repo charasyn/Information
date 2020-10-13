@@ -1,6 +1,7 @@
 
 ## 💺 Project Requirement - Web Option
 
+
 The product you are to design and build is the SeetGeek not SeatGeek online Customer-to-Customer ticket selling system.
 A registered user can buy and sell tickets through this online application.
 
