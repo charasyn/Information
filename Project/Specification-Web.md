@@ -180,6 +180,7 @@ Actions:
  
  Note:
 (`get_ticket` and `Ticket` do not exist yet, but it is your initial designs of the backend interface)
+
 (element `#buy_name`,  `#buy_quantity` and `#buy_submit`, etc. do not exist yet, but they are your initial design of your frontent interface)
 
 
