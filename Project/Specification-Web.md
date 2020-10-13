@@ -226,6 +226,8 @@ Actions:
  - follow the information above to login the webpage
  - input the ticket information into the form
  - make sure that the system checks the ticket's name exists in the database.
+ 
+Why it is BAD? If you give this to someone else and assume that they won't read the specification, can they implement the test code directly based on what you described? We need to provide what is needed in details.
 
 
 
