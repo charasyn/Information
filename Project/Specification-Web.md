@@ -75,6 +75,7 @@ Requirements and Constraints:
 |  |  | This page lists all available tickets. Information including the quantity of each ticket, the owner's email, and the price, for tickets that are not expired. |
 |  |  | This page contains a form that a user can submit new tickets for sell. Fields: name, quantity, price, expiration date |
 |  |  | This page contains a form that a user can buy new tickets. Fields: name, quantity |
+|  |  | This page contains a form that a user can update existing tickets. Fields: name, quantity, price, expiration date |
 |  |  | The ticket-selling form can be posted to /sell |
 |  |  | The ticket-buying form can be posted to /buy |
 |  |  | The ticket-update form can be posted to /update |
