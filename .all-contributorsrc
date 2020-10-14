@@ -34,6 +34,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "THardy98",
+      "name": "Thomas Hardy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15315413?v=4",
+      "profile": "https://github.com/THardy98",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
