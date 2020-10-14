@@ -1,10 +1,10 @@
 <h1 align="center"> :fire: CISC/CMPE327 QA :fire: </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56231449/92793289-45c11f00-f37c-11ea-8f0d-9954b3c1d2f3.png" height="250px" alt="" />
+  <img src="/images/unknown.png" height="450px" alt="" />
 </p>
 <p align="center">
-  <p align="center">[Current meme winner: DennisHuynh16DH24 - Checkout the <a href="https://github.com/CISC-CMPE-327/Information/issues/2">competition</a>]</p>
+  <p align="center">[Credits: LammyJams]</p>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ There is an `issues` tab right up there :point_up:. Cannot find it? Click <a hre
 | Assignments | Subject                         | Due | Mini-Exams                         |   Due   |
 |-------------|---------------------------------|-----|------------------------------------|---------|
 |[A0](Project/A0.pdf)| Choose teams             |Sep-28| Mini-Exam #0                      |W04/Oct-01|
-|[A1](Project/A1.md)          | Front end: requirements tests   |Oct-15| Mini-Exam #1                      |W08      |
+|[A1](Project/A1.md)          | Front end: requirements tests   |Oct-17| Mini-Exam #1                      |W08      |
 | A2          | Front end: rapid prototype      |Oct-26| Mini-Exam #2                      |W11      |
 | A3          | Front end: requirements testing |Nov-09| Mini-Exam #3                      |W13      |
 | A4          | Back end: rapid prototype       |Nov-23|                                   |         |
@@ -194,3 +194,32 @@ Introduction to Systematic Testing: Validation and Verification. Levels of Testi
 </details>
 
 
+
+
+## Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://l1nna.com/"><img src="https://avatars3.githubusercontent.com/u/8474647?v=4" width="100px;" alt=""/><br /><sub><b>Steven Ding</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=steven-hh-ding" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=steven-hh-ding" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/leordsong"><img src="https://avatars3.githubusercontent.com/u/13053186?v=4" width="100px;" alt=""/><br /><sub><b>Leo Song</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=leordsong" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=leordsong" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/reetamtaj"><img src="https://avatars3.githubusercontent.com/u/43523091?v=4" width="100px;" alt=""/><br /><sub><b>Reetam Taj</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=reetamtaj" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=reetamtaj" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/charasyn"><img src="https://avatars1.githubusercontent.com/u/6129909?v=4" width="100px;" alt=""/><br /><sub><b>Cooper Harasyn</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/THardy98"><img src="https://avatars3.githubusercontent.com/u/15315413?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Hardy</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

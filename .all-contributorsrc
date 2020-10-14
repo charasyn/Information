@@ -1,0 +1,65 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "steven-hh-ding",
+      "name": "Steven Ding",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8474647?v=4",
+      "profile": "https://l1nna.com/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "leordsong",
+      "name": "Leo Song",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13053186?v=4",
+      "profile": "https://github.com/leordsong",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "reetamtaj",
+      "name": "Reetam Taj",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43523091?v=4",
+      "profile": "https://github.com/reetamtaj",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "charasyn",
+      "name": "Cooper Harasyn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6129909?v=4",
+      "profile": "https://github.com/charasyn",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "THardy98",
+      "name": "Thomas Hardy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15315413?v=4",
+      "profile": "https://github.com/THardy98",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Information",
+  "projectOwner": "CISC-CMPE-327",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
