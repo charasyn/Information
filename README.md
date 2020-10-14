@@ -1,7 +1,4 @@
 <h1 align="center"> :fire: CISC/CMPE327 QA :fire: </h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
   <img src="/images/unknown.png" height="450px" alt="" />
@@ -198,7 +195,13 @@ Introduction to Systematic Testing: Validation and Verification. Levels of Testi
 
 
 
+
 ## Contributors ✨
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
