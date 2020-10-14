@@ -107,7 +107,7 @@ Requirements and Constraints:
 |  |  | For any errors, redirect back to / and show an error message |
 |  |  |  |
 |  |  |  |
-| R7 | /logout | [POST] |
+| R7 | /logout | [GET, POST] |
 |  |  | Logout will invalid the current session and redirect to the login page. After logout, the user shouldn't be able to access restricted pages. |
 |  |  |  |
 | R8 | /* | [any] |
