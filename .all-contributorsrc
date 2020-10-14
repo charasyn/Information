@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "steven-hh-ding",
+      "name": "Steven Ding",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8474647?v=4",
+      "profile": "https://l1nna.com/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Information",
+  "projectOwner": "CISC-CMPE-327",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
