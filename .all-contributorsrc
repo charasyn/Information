@@ -24,6 +24,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "reetamtaj",
+      "name": "Reetam Taj",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43523091?v=4",
+      "profile": "https://github.com/reetamtaj",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
